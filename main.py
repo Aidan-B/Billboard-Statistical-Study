@@ -1,15 +1,14 @@
-token = ""
-  
-import requests
+import spotify_api as s
 import json
 
-url = 'https://api.spotify.com/v1/albums'
-payload = {'ids': '382ObEPsp2rxGrnsizN5TX,1A2GTWGtFfWp7KSQTwWOyo,2noRn2Aes5aoNVsU6iWThc'}
-headers = {
-    'content-type': 'application/json',
-    'Authorization': "Bearer {}".format(token)
-}
+albums = json.load(
+    s.get_albums(
+        s.get_artist_albums(
+            s.get_artist_id("pitbull")
+        )
+    )
+)
 
-response = requests.get(url, params=payload, headers=headers)
 
-print(response.text)
+print(albums[0]['name'])
+# print(spotify_api.get_tracks("3rfhI32Il2hVRKDkuGeeen,13plQdOoWSSXPRUSZc5FuM"))
