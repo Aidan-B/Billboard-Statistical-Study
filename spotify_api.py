@@ -1,7 +1,8 @@
 import requests
 import json
+import math
 
-token = "BQDD8mwKZu7ncJuwch4dfLr5bEIeAQ4cd_llr2zgYziL2XzeghzxmZmzPU-1WFI6Toti97wCUyNRZ0iQq4lbaHxQppIYlNvLl9QPqEEunrnHZ8DrhzC0FpMwLoSqAoiFjw02CjwYgFp4S_h425UgTPfW4eyoLLA"
+token = "BQCuQq3_0oJo591P2F8OqGzITfXfyGlmnZ4R15DPTBElmNQoD2zV0MNf9SrvFwqIXmNtHntyzzgEOITap9VRnlLfP20h6qvWjfxCJ1HEA36XIhtkXARjBaTnGPoCb-8E_ksFdhTOXQKnOaQbJ0pSg2_8czUlXNA"
 headers = {
     'content-type': 'application/json',
     'Authorization': "Bearer {}".format(token)
@@ -22,8 +23,16 @@ def get_tracks(ids):
 
 def get_albums(ids):
     url = spotify + "/albums"
-    params = {'ids': ','.join(ids) }
-    return requests.get(url, params=params, headers=headers).text
+    idList = []
+    output = []
+    for i in range(math.ceil(len(ids) / 20)):
+        idList.append(ids[(i*20):(i*20)+20])
+        
+    for id in idList:
+        params = {'ids': ','.join(id) }
+        output += json.loads(requests.get(url, params=params, headers=headers).text)['albums']
+
+    return output
 
 def get_artist_id(name):
     url = spotify + '/search'
