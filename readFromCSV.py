@@ -70,53 +70,40 @@ def removeDuplicatesFromTop100Songs(top100Songs):
 
     return filteredTop100Songs
 
-def readAndSampleTop100SongsDurations():  
-    print("read and sample top 100 running")
-
+def readAndSampleTop100SongsDurations():
     with open('top100SongsDurations.txt') as csv_file:
         sampleOfTop100Songs = []
 
-        # remove any trailing characters at ends of lines
-        lines = (line.rstrip() for line in csv_file)
-        # remove any blank lines
-        lines = (line for line in lines if line)
-        # init a csv reader that divides lines using (\n) as delimiter
-        csv_reader = csv.reader(lines, delimiter='\n')
         # init a random number generator using the current time as the seed
         random.seed()
-        lineNumber = 0
 
-        print("Defined vars")
+        list = []
 
-        for line in csv_reader:
-            # get number of songs in CSV file (first row in the file)
-            if lineNumber == 0:
-                numberOfSongs = line[0]
-            lineNumber += 1
+        for line in csv_file:
+            line = line.strip()
+            if line:
+                list.append(line)
+                # print("Appended " + line)
 
-        print("Got number of songs: " + numberOfSongs)
+        # get number of songs in CSV file (first row in the file)
+        numberOfSongs = list[0]
+        # print("Got number of songs: " + numberOfSongs)
 
         # iterate 30 times for 30 random samples (from 0 to 29)
-        for _ in range (29):
+        for i in range (30):
             # generate a random number between 1 (do not include row 0 since that specifies number of songs in the CSV) and the total number of songs
             randomNum = random.randint(1, int(numberOfSongs)-1)
-            lineNumber = 0
+            # print("Random number is: " + str(randomNum))
 
-            print("Inside second loop")
+            # get number of songs in CSV file (first row in the file)
+            sampledSong = list[randomNum]
+            # print("Sampled song is: " + sampledSong)
 
-            # select a song at a random line number
-            for line in csv_reader:
+            # split the string after the \t character once, and select the second element
+            sampledSongDuration = sampledSong.split("\t",1)[1]
 
-                print("Inside 3rd loop")
-                # get number of songs in CSV file (first row in the file)
-                if lineNumber == randomNum:
-                    sampledSong = line[0]
-                    print(sampledSong)
-                lineNumber += 1
-                # split the string after the \t character once, and select the second element
-                sampledSongDuration = sampledSong.split("\t",1)[1] 
-                # add the song duration to sample array
-                sampleOfTop100Songs.append(sampledSongDuration)
+            # add the song duration to sample array
+            sampleOfTop100Songs.append(sampledSongDuration)
 
         return sampleOfTop100Songs
 

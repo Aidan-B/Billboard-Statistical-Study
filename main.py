@@ -5,16 +5,16 @@ import writeToCSV
 
 import sampleSelector
 
-# print("Reading artist list")
+# print("Reading top 100 songs and artist list")
 # top100SongsAndArtists = readFromCSV.readTop100SongsAndArtists()
 
-# print("Writing hot 100 song list")
 # top100SongsList = top100SongsAndArtists[0]
+
+# print("Writing top 100 songs durations")
 # writeToCSV.writeTop100SongsDurations(top100SongsList)
-print("Hi matthew, running")
-sampledSongs = readFromCSV.readAndSampleTop100SongsDurations()
-print(*sampledSongs, sep="|")
-print("Hi Matthew, finished")
+
+# print("Reading and sampling top 100 songs durations")
+# sampledSongs = readFromCSV.readAndSampleTop100SongsDurations()
 
 # print("Writing artist song lists")
 # top100ArtistsList = top100SongsAndArtists[1]
