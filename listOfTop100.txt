@@ -236,7 +236,7 @@ All I Do Is Win
 DJ Khaled, T-Pain, Ludacris, Snoop Dogg, Rick Ross
 
 I Made It (Cash Money Heroes)
-Kevin Rudolf, Birdman, Jay Sean,, Lil Wayne
+Kevin Rudolf, Birdman, Jay Sean, Lil Wayne
 
 Stuck Like Glue
 Sugarland
@@ -1073,7 +1073,7 @@ Some Nights
 fun.
 
 Bad
-Wale, Tiara Thomas Or Rihanna
+Wale, Tiara Thomas, Rihanna
 
 Boys 'round Here
 Blake Shelton, Pistol Annies, Friends
@@ -1445,7 +1445,7 @@ La La La
 Naughty Boy, Sam Smith
 
 Blurred Lines
-Robin Thicke, T.I. + Pharrell
+Robin Thicke, T.I., Pharrell
 
 Do What U Want
 Lady Gaga, R. Kelly
@@ -2744,8 +2744,7 @@ I Don't Care
 Ed Sheeran, Justin Bieber
 
 Eastside
-benny blanco
-Halsey, Khalid
+benny blanco, Halsey, Khalid
 
 Going Bad
 Meek Mill, Drake
