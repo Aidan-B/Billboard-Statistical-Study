@@ -47,9 +47,13 @@ print("The mean of the sample of top 100 songs is {} seconds".format(mean/1000))
 
 # print("Finished writing files")
 
-# print("Grabbing random sample from artist")
-# samples = sampleSelector.samples_from_artists(10)
-# print(samples)
+print("Grabbing random sample from artist")
+samples = sampleSelector.samples_from_artists(30000)
+# for sample in samples:
+#     print(sample)
+
+print("mean duration: {}".format(sum([ int(sample[2]) for sample in samples]) / 30000))
+
 
 # albums = s.get_albums(
 #     s.get_artist_albums(

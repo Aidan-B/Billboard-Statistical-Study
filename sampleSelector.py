@@ -1,6 +1,7 @@
 import os
 import random
 import math
+import re
 
 
 def samples_from_artists(samples):
@@ -14,13 +15,12 @@ def samples_from_artists(samples):
 
     totalPopulation = sum(lines)
 
-
     for i in range(0, samples):
         line = ''
         sampleIndex = random.randint(1,totalPopulation)
         fileIndex = 0
         for count in lines:
-            if sampleIndex - count > 0:
+            if (sampleIndex - count > 0):
                 sampleIndex -= count
                 fileIndex += 1
             else:
@@ -28,6 +28,9 @@ def samples_from_artists(samples):
                     f.readline().strip()
                     for index in range(0, sampleIndex):
                         line = f.readline().strip()
+                    regex = re.search('^(.*) - ([0-9]+)ms', line)
+                    output.append([files[fileIndex], regex.group(1), regex.group(2)])
+                    break
         
-        output.append("{}, {}".format(files[fileIndex], line))
+        
     return output
