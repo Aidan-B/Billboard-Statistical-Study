@@ -85,4 +85,13 @@ def removeDuplicatesFromTop100Artists(top100Artists):
 
     return filteredTop100Artists
                 
+def removeDuplicatesFromTop100Songs(top100Songs):
+    filteredTop100Songs=[]
+    
+    # Turns each element to lowercase
+    lowercaseTop100Songs = [x.lower() for x in top100Songs]
+    
+    filteredTop100Songs = [i for i in collections.Counter(lowercaseTop100Songs)]
+
+    return filteredTop100Songs
 
