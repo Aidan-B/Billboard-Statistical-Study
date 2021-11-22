@@ -1,6 +1,7 @@
 import csv
 import linecache
 import random
+import collections
 
 def readTop100SongsAndArtists():
 
@@ -58,3 +59,14 @@ def readAndSampleTop100SongsDurations():
             sampleOfTop100Songs.append(sampledSongDuration)
 
         return sampleOfTop100Songs
+
+def removeDuplicatesFromTop100Songs(top100Songs):
+    filteredTop100Songs=[]
+    
+    # Turns each element to lowercase
+    lowercaseTop100Songs = [x.lower() for x in top100Songs]
+    
+    filteredTop100Songs = [i for i in collections.Counter(lowercaseTop100Songs)]
+
+    return filteredTop100Songs
+
