@@ -1,12 +1,10 @@
 import requests
 import json
 import math
+import collections
 
-<<<<<<< HEAD
-token = "BQAnlc9vmd1otsd948AT68CNHVBnnr5o_eYrjSP3AUYklJsHh2iIty0Be6FTKQiPFpehHQ-PrTYEJesfqPiRaPG7BwQTX1opoM7rGoPyapMAtM71OaK1zssqZgN8Z_o7jmu32ihfiHLZmUFtjdM"
-=======
-token = "BQCuQq3_0oJo591P2F8OqGzITfXfyGlmnZ4R15DPTBElmNQoD2zV0MNf9SrvFwqIXmNtHntyzzgEOITap9VRnlLfP20h6qvWjfxCJ1HEA36XIhtkXARjBaTnGPoCb-8E_ksFdhTOXQKnOaQbJ0pSg2_8czUlXNA"
->>>>>>> 9458f078f358ad8baf5ac5961b9aece8688e059d
+token = "BQBIZ8uT6ebZ2IfbIkmBpoqR6wz3Ywc9CS99U4YhiGUq2SUfT7DyZOkYj33hmfL-RUYKWat0zWfs3DxEvLvNCAVou27wMda-rZ038ryRitt-lgiXM7zemZ2KWR1zpF2WLlltOI85dvGLVE2ZJ8r4u59b-RQFdZU"
+
 headers = {
     'content-type': 'application/json',
     'Authorization': "Bearer {}".format(token)
@@ -16,12 +14,34 @@ spotify = "https://api.spotify.com/v1"
 
 def get_artists(ids):
     url = spotify + "/artists"
-    params = {'ids': ','.join(ids) }
+
+    idList = []
+    output = []
+    for i in range(math.ceil(len(ids) / 20)):
+        idList.append(ids[(i*20):(i*20)+20])
+        
+    for id in idList:
+        params = {'ids': ','.join(id) }
+        output += json.loads(requests.get(url, params=params, headers=headers).text)['artists']
+
+    output = remove_duplicates(output)
+
     return requests.get(url, params=params, headers=headers).text
 
 def get_tracks(ids):
     url = spotify + "/tracks"
-    params = {'ids': ','.join(ids) }
+
+    idList = []
+    output = []
+    for i in range(math.ceil(len(ids) / 50)):
+        idList.append(ids[(i*50):(i*50)+50])
+        
+    for id in idList:
+        params = {'ids': ','.join(id) }
+        output += json.loads(requests.get(url, params=params, headers=headers).text)['tracks']
+
+    output = remove_duplicates(output)
+
     return requests.get(url, params=params, headers=headers).text
 
 def get_track_id(songTitle):
@@ -44,6 +64,8 @@ def get_albums(ids):
         params = {'ids': ','.join(id) }
         output += json.loads(requests.get(url, params=params, headers=headers).text)['albums']
 
+    output = remove_duplicates(output)
+
     return output
 
 def get_artist_id(name):
@@ -60,3 +82,12 @@ def get_artist_albums(artistId):
     params = { 'limit': 50 }
     response = json.loads(requests.get(url, params=params, headers=headers).text)
     return [ sub['id'] for sub in response['items'] ]
+
+
+def remove_duplicates(response):
+    new_vals=[]
+    k = [item['name'] for item in response]
+    for i in collections.Counter(k):
+        all = [x for x in response if x['name']==i]
+        new_vals.append(max(all, key=lambda x: x['name']))
+    return new_vals
