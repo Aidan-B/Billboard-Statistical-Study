@@ -3,7 +3,7 @@ import json
 import math
 import collections
 
-token = "BQBIZ8uT6ebZ2IfbIkmBpoqR6wz3Ywc9CS99U4YhiGUq2SUfT7DyZOkYj33hmfL-RUYKWat0zWfs3DxEvLvNCAVou27wMda-rZ038ryRitt-lgiXM7zemZ2KWR1zpF2WLlltOI85dvGLVE2ZJ8r4u59b-RQFdZU"
+token = "BQBmtygi7nScxIHDG_25REZHH8Q9vXXx12gj9lAwmYSyW9uQF_hyAoD4a7dHpoHVkr6LKZFg5HitqcQhmh5J_1o2yh2OuKaFyMNkBZiPqsFCNUknbRRsx_O0n2JaxIhlrpLEJFYiBuzk4W8Dszg"
 
 headers = {
     'content-type': 'application/json',
@@ -26,7 +26,7 @@ def get_artists(ids):
 
     output = remove_duplicates(output)
 
-    return requests.get(url, params=params, headers=headers).text
+    return output
 
 def get_tracks(ids):
     url = spotify + "/tracks"
@@ -42,16 +42,15 @@ def get_tracks(ids):
 
     output = remove_duplicates(output)
 
-    return requests.get(url, params=params, headers=headers).text
+    return output
 
-def get_track_id(songTitle):
+def get_track(songTitle):
     url = spotify + '/search'
     params = {
         'q': songTitle,
         'type': 'track',
     }
-    response = json.loads(requests.get(url, params=params, headers=headers).text)
-    return response['tracks']['items'][0]['id']
+    return json.loads(requests.get(url, params=params, headers=headers).text)
 
 def get_albums(ids):
     url = spotify + "/albums"
