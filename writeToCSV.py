@@ -20,3 +20,17 @@ def writeTop100SongsDurations(songTitles):
 
             # write the songDuration as a row to the csv file
             writer.writerow([songDuration])
+
+
+def writeTopArtistDurations(songs, artistName):
+
+    # open the file in the write mode
+    with open('./artists/{}'.format(artistName), 'w') as csv_file:
+        # create the csv writer
+        writer = csv.writer(csv_file)
+        
+        writer.writerow([len(songs)])
+
+        for song in songs:
+            # write the songDuration as a row to the csv file
+            writer.writerow(['{} - {}ms'.format(song['name'], song['duration_ms'])])
