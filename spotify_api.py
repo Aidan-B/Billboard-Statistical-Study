@@ -1,12 +1,11 @@
 import requests
 import json
 
-token = "BQDD8mwKZu7ncJuwch4dfLr5bEIeAQ4cd_llr2zgYziL2XzeghzxmZmzPU-1WFI6Toti97wCUyNRZ0iQq4lbaHxQppIYlNvLl9QPqEEunrnHZ8DrhzC0FpMwLoSqAoiFjw02CjwYgFp4S_h425UgTPfW4eyoLLA"
+token = "BQAnlc9vmd1otsd948AT68CNHVBnnr5o_eYrjSP3AUYklJsHh2iIty0Be6FTKQiPFpehHQ-PrTYEJesfqPiRaPG7BwQTX1opoM7rGoPyapMAtM71OaK1zssqZgN8Z_o7jmu32ihfiHLZmUFtjdM"
 headers = {
     'content-type': 'application/json',
     'Authorization': "Bearer {}".format(token)
 }
-
 
 spotify = "https://api.spotify.com/v1"
 
@@ -19,6 +18,15 @@ def get_tracks(ids):
     url = spotify + "/tracks"
     params = {'ids': ','.join(ids) }
     return requests.get(url, params=params, headers=headers).text
+
+def get_track_id(songTitle):
+    url = spotify + '/search'
+    params = {
+        'q': songTitle,
+        'type': 'track',
+    }
+    response = json.loads(requests.get(url, params=params, headers=headers).text)
+    return response['tracks']['items'][0]['id']
 
 def get_albums(ids):
     url = spotify + "/albums"

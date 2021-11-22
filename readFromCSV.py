@@ -13,7 +13,7 @@ with open('listOfTop100.txt') as csv_file:
     # track line count
     line_count = 0
 
-    print(f'Started processing rows.')
+    print(f'Started reading rows.')
 
     # iterate through all lines
     for line in csv_reader:
@@ -31,4 +31,4 @@ with open('listOfTop100.txt') as csv_file:
     #print("Printing artists list:")
     #print(*top100SongsList, sep = "| ")
 
-    print(f'Processed {len(top100SongsList)} songs and {len(top100ArtistsList)} artists.')
+    print(f'Read {len(top100SongsList)} songs and {len(top100ArtistsList)} artists.')
