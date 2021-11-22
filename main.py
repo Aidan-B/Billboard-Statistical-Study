@@ -32,3 +32,22 @@ print("Finished!")
 # for name in [ album['name'] for album in albums ]:    
 #     print(name)
 
+tracks = []
+for album in albums:
+    for track in album['tracks']['items']:
+        tracks.append(track)
+s.remove_duplicates(tracks)
+
+for track in tracks:
+    print( '{} - {}ms'.format(track['name'], track['duration_ms']) )
+
+# for album in albums:
+#     print()
+#     print()
+#     print(album['name'])
+#     print("------")
+#     for track in album['tracks']['items']:
+#         print( '{} - {}ms'.format(track['name'], track['duration_ms']) )
+
+# # for name in [ album['name'] for album in albums ]:    
+# #     print(name)

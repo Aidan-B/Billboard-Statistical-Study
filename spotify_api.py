@@ -67,6 +67,16 @@ def get_albums(ids):
 
     return output
 
+
+def get_track_id(songTitle):
+    url = spotify + '/search'
+    params = {
+        'q': songTitle,
+        'type': 'track',
+    }
+    response = json.loads(requests.get(url, params=params, headers=headers).text)
+    return response['tracks']['items'][0]['id']
+
 def get_artist_id(name):
     url = spotify + '/search'
     params = {
@@ -88,5 +98,5 @@ def remove_duplicates(response):
     k = [item['name'] for item in response]
     for i in collections.Counter(k):
         all = [x for x in response if x['name']==i]
-        new_vals.append(max(all, key=lambda x: x['name']))
+        new_vals.append(all[0])
     return new_vals
