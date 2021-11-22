@@ -13,8 +13,17 @@ import sampleSelector
 # print("Writing top 100 songs durations")
 # writeToCSV.writeTop100SongsDurations(top100SongsList)
 
-# print("Reading and sampling top 100 songs durations")
-# sampledSongs = readFromCSV.readAndSampleTop100SongsDurations()
+print("Reading and sampling top 100 songs durations")
+sampledSongs = readFromCSV.readAndSampleTop100SongsDurations()
+
+sum = 0
+
+for songDuration in sampledSongs:
+    sum += int(songDuration)
+
+mean = sum/len(sampledSongs)
+print("The mean of the sample of top 100 songs is {} seconds".format(mean/1000))
+
 
 # print("Writing artist song lists")
 # top100ArtistsList = top100SongsAndArtists[1]

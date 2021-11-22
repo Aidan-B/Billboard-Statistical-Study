@@ -1,5 +1,4 @@
 import csv
-import linecache
 import random
 import collections
 
@@ -101,6 +100,9 @@ def readAndSampleTop100SongsDurations():
 
             # split the string after the \t character once, and select the second element
             sampledSongDuration = sampledSong.split("\t",1)[1]
+
+            if "\"" in sampledSong:
+                sampledSongDuration = sampledSongDuration.replace("\"","")
 
             # add the song duration to sample array
             sampleOfTop100Songs.append(sampledSongDuration)
