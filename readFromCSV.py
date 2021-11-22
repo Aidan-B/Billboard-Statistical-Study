@@ -1,6 +1,7 @@
 import csv
 import linecache
 import random
+import collections
 
 def readTop100SongsAndArtists():
 
@@ -58,3 +59,30 @@ def readAndSampleTop100SongsDurations():
             sampleOfTop100Songs.append(sampledSongDuration)
 
         return sampleOfTop100Songs
+
+
+def splitTop100Artists(top100Artists):
+    # create new empty array to hold all split top 100 artists (in cases where multiple artists collaborated)
+    splitTop100Artists = []
+    # iterate through top100Artists
+    for artist in top100Artists:
+        if "," in artist:
+            # if there is a comma, it is multiple artists, so split it around the commas into separate artists
+            artists = artist.split(", ")
+            # for each split artist, add them individually to splitTop100Artists
+            for artist in artists:
+                splitTop100Artists.append(artist)
+
+    return splitTop100Artists
+
+def removeDuplicatesFromTop100Artists(top100Artists):
+    # create new empty array to hold filtered top 100 artists
+    filteredTop100Artists = []
+    # lowercase all artist names in the top100Artists array
+    top100Artists = [artist.lower() for artist in top100Artists]
+    # convert into a collections.Counter which has no duplicates, then add each element in the collections.Counter to the filtered array
+    filteredTop100Artists = [i for i in collections.Counter(top100Artists)]
+
+    return filteredTop100Artists
+                
+
