@@ -2,8 +2,9 @@ import spotify_api as s
 import json
 import readFromCSV
 import writeToCSV
-
 import sampleSelector
+import duplicateHunter
+
 
 def calculate_mean(samples, size):
     return (sum(samples) / size)
@@ -39,8 +40,8 @@ def collect_all_songs_for_artists(artistList, startIndex):
 print("Reading top 100 songs and artist list")
 top100SongsAndArtists = readFromCSV.readTop100SongsAndArtists()
 
-# print("Writing top 100 songs durations")
-# writeToCSV.writeTop100SongsDurations(top100SongsAndArtists[0])
+print("Writing top 100 songs durations")
+writeToCSV.writeTop100SongsDurations(top100SongsAndArtists[0])
 
 # print("Reading and sampling top 100 songs durations")
 # print(
@@ -62,6 +63,5 @@ top100SongsAndArtists = readFromCSV.readTop100SongsAndArtists()
 
 
 
-import duplicateHunter
 
-print(duplicateHunter.hunt_duplicates())
+# print(duplicateHunter.hunt_duplicates())
