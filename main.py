@@ -41,19 +41,25 @@ def collect_all_songs_for_artists(artistList, startIndex):
 # print("Writing top 100 songs durations")
 # writeToCSV.writeTop100SongsDurations(top100SongsAndArtists[0])
 
-print("Reading and sampling top 100 songs durations")
-print(
-    "The mean of the sample of top 100 songs is {} ms".format(
-        calculate_mean([ int(sample) for sample in readFromCSV.readAndSampleTop100SongsDurations(300)], 300)
-    )
-)
+# print("Reading and sampling top 100 songs durations")
+# print(
+#     "The mean of the sample of top 100 songs is {} ms".format(
+#         calculate_mean([ int(sample) for sample in readFromCSV.readAndSampleTop100SongsDurations(300)], 300)
+#     )
+# )
 
 # print("Collecting all songs by artists")
 # collect_all_songs_for_artists(top100SongsAndArtists[1], 0)
 
-print("Grabbing random sample from artists")
-print(
-    "The mean of the sample of all artist songs is {} ms".format(
-        calculate_mean([ int(sample[2]) for sample in sampleSelector.samples_from_artists(300)], 300)
-    )
-)
+# print("Grabbing random sample from artists")
+# print(
+#     "The mean of the sample of all artist songs is {} ms".format(
+#         calculate_mean([ int(sample[2]) for sample in sampleSelector.samples_from_artists(300)], 300)
+#     )
+# )
+
+
+
+import duplicateHunter
+
+print(duplicateHunter.hunt_duplicates())
