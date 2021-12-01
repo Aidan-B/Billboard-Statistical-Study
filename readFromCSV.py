@@ -71,7 +71,7 @@ def removeDuplicatesFromTop100Songs(top100Songs):
 
     return filteredTop100Songs
 
-def readAndSampleTop100SongsDurations():
+def readAndSampleTop100SongsDurations(samples):
     with open('top100SongsDurations.txt') as csv_file:
         songsInSample = []
         songDurationsInSample = []
@@ -95,7 +95,7 @@ def readAndSampleTop100SongsDurations():
         # print("Got number of songs: " + numberOfSongs)
 
         # iterate 300 times for 300 random samples
-        for i in range (300):
+        for i in range (samples):
             # generate a random number between 1 (do not include row 0 since that specifies number of songs in the CSV) and the total number of songs
             randomNum = random.randint(1, int(numberOfSongs)-1)
             # print("Random number is: " + str(randomNum))
