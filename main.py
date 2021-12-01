@@ -14,18 +14,19 @@ def collect_all_songs_for_artists(artistList, startIndex):
     for artist in artistList:
         if startIndex <= sampleIndex:
             print(artist)
+            artistId = s.get_artist_id(artist)
             albums = s.get_albums(
                 s.get_artist_albums(
-                    s.get_artist_id(artist)
+                    artistId
                 )
             )
-
+            artist = artist.strip().lower().replace(".", '').replace("*", '')
             tracks = []
             for album in albums:
                 for track in album['tracks']['items']:
-                    
+
                     for artists in track['artists']:
-                        if artists['name'].lower() == artist.lower():
+                        if artists['id'] == artistId:
                             tracks.append(track)
                     
             tracks = s.remove_duplicates(tracks)
@@ -35,8 +36,8 @@ def collect_all_songs_for_artists(artistList, startIndex):
 
     print("Finished writing files")
 
-# print("Reading top 100 songs and artist list")
-# top100SongsAndArtists = readFromCSV.readTop100SongsAndArtists()
+print("Reading top 100 songs and artist list")
+top100SongsAndArtists = readFromCSV.readTop100SongsAndArtists()
 
 # print("Writing top 100 songs durations")
 # writeToCSV.writeTop100SongsDurations(top100SongsAndArtists[0])
@@ -50,6 +51,7 @@ def collect_all_songs_for_artists(artistList, startIndex):
 
 # print("Collecting all songs by artists")
 # collect_all_songs_for_artists(top100SongsAndArtists[1], 0)
+# collect_all_songs_for_artists(['n*e*r*d'], 0)
 
 # print("Grabbing random sample from artists")
 # print(

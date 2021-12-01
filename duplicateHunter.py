@@ -27,15 +27,9 @@ def hunt_duplicates():
             print("{}%".format(round(len(new_vals)/len(allSongs)*100)))
     print("100%")
 
-     # open the file in the write mode
-    with open('./AllArtists-NoDuplicates.txt', 'w') as csv_file:
-        # create the csv writer
-        writer = csv.writer(csv_file)
+    # open the file in the write mode
+    with open('./AllArtists-NoDuplicates.txt', 'w') as file:
         
-        writer.writerow([len(new_vals)])
-
-        for song in new_vals:
-            # write the songDuration as a row to the csv file
-            writer.writerow([song])
-
+        file.writelines(["{}\n".format(len(new_vals))] + ["{}\n".format(line) for line in new_vals])
+        
     return len(new_vals) - len(allSongs)
