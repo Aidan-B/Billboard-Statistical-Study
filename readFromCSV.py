@@ -71,15 +71,19 @@ def removeDuplicatesFromTop100Songs(top100Songs):
 
 def readAndSampleTop100SongsDurations():
     with open('top100SongsDurations.txt') as csv_file:
-        sampleOfTop100Songs = []
+        songsInSample = []
+        songDurationsInSample = []
 
         # init a random number generator using the current time as the seed
         random.seed()
 
         list = []
 
+        # add each line in the csv file to a list
         for line in csv_file:
+            # remove any whitespace in the line
             line = line.strip()
+            # if the line is not blank, then append it to the list of lines
             if line:
                 list.append(line)
                 # print("Appended " + line)
@@ -88,26 +92,39 @@ def readAndSampleTop100SongsDurations():
         numberOfSongs = list[0]
         # print("Got number of songs: " + numberOfSongs)
 
-        # iterate 30 times for 300 random samples
+        # iterate 300 times for 300 random samples
         for i in range (300):
             # generate a random number between 1 (do not include row 0 since that specifies number of songs in the CSV) and the total number of songs
             randomNum = random.randint(1, int(numberOfSongs)-1)
             # print("Random number is: " + str(randomNum))
 
             # get number of songs in CSV file (first row in the file)
-            sampledSong = list[randomNum]
-            # print("Sampled song is: " + sampledSong)
+            songToBeSampled = list[randomNum]
+            # print("Song to be sampled is: " + songToBeSampled)
 
             # split the string after the \t character once, and select the second element
-            sampledSongDuration = sampledSong.split("\t",1)[1]
+            sampledSongDuration = songToBeSampled.split("\t",1)[1]
 
-            if "\"" in sampledSong:
+            # if the song includes a quotation mark character ", then remove it
+            if "\"" in songToBeSampled:
                 sampledSongDuration = sampledSongDuration.replace("\"","")
 
-            # add the song duration to sample array
-            sampleOfTop100Songs.append(sampledSongDuration)
+            # check to see if a song has already been sampled
+            hasAlreadyBeenSampled = False
+            # loop through existing songsInSample
+            for song in songsInSample:
+                if songToBeSampled == song:
+                    # if the songToBeSampled has already been sampled, set hasAlreadyBeenSampled
+                    hasAlreadyBeenSampled = True
+                    # print("Song has already been sampled")
+                    break
 
-        return sampleOfTop100Songs
+            if hasAlreadyBeenSampled == False:
+                # add the song duration to sample array
+                songDurationsInSample.append(sampledSongDuration)
+                songsInSample.append(songToBeSampled)
+
+        return songDurationsInSample
 
 
 
