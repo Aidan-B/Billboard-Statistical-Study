@@ -35,9 +35,6 @@ def collect_all_songs_for_artists(artistList, startIndex):
 
     print("Finished writing files")
 
-
-
-
 # print("Reading top 100 songs and artist list")
 # top100SongsAndArtists = readFromCSV.readTop100SongsAndArtists()
 
@@ -47,7 +44,7 @@ def collect_all_songs_for_artists(artistList, startIndex):
 print("Reading and sampling top 100 songs durations")
 print(
     "The mean of the sample of top 100 songs is {} ms".format(
-        calculate_mean([ int(sample) for sample in readFromCSV.readAndSampleTop100SongsDurations(300)], 300)
+        calculate_mean([ int(sample) for sample in readFromCSV.readAndSampleTop100SongsDurations(883)], 883)
     )
 )
 
