@@ -17,7 +17,8 @@ def samples_from_artists(samples):
 
     totalPopulation = sum(lines)
 
-    for i in range(0, samples):
+    # loop until there are enough samples in the songDurationsInSample array
+    while len(output) < samples:
         line = ''
         sampleIndex = random.randint(1,totalPopulation)
         fileIndex = 0

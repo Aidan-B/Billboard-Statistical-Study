@@ -94,8 +94,8 @@ def readAndSampleTop100SongsDurations(samples):
         numberOfSongs = list[0]
         # print("Got number of songs: " + numberOfSongs)
 
-        # iterate 300 times for 300 random samples
-        for i in range (samples):
+        # loop until there are enough samples in the songDurationsInSample array
+        while len(songDurationsInSample) < samples:
             # generate a random number between 1 (do not include row 0 since that specifies number of songs in the CSV) and the total number of songs
             randomNum = random.randint(1, int(numberOfSongs)-1)
             # print("Random number is: " + str(randomNum))
