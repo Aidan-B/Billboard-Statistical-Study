@@ -61,7 +61,8 @@ def get_albums(ids):
         
     for id in idList:
         params = {'ids': ','.join(id) }
-        output += json.loads(requests.get(url, params=params, headers=headers).text)['albums']
+        query = requests.get(url, params=params, headers=headers)
+        output += json.loads(query.text)['albums']
 
     output = remove_duplicates(output)
 

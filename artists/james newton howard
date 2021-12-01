@@ -1,4 +1,4 @@
-601
+576
 Jungle Cruise Suite - 500160ms
 Nothing Else Matters - Jungle Cruise Version Part 1 - 86906ms
 Breaking Into the Archives - 242253ms
@@ -28,8 +28,6 @@ I Want You to Rest Now - 226666ms
 Absolutely Exhausting - 60080ms
 Nothing Else Matters - Part 1 - 86906ms
 Nothing Else Matters - Part 2 - 269280ms
-Lead the Way - 223835ms
-Scegli - 224150ms
 Prologue - 344357ms
 Young Raya and Namaari - 206228ms
 Betrayed - 274877ms
@@ -53,7 +51,6 @@ Storming Fang - 249018ms
 The Druun Close In - 178899ms
 Return - 298298ms
 The New World - 155734ms
-Hasta vencer - 224150ms
 Captain Jefferson - 126906ms
 There is No Time for Stories - 237707ms
 Leaving Wichita - 87297ms
@@ -74,16 +71,12 @@ Kidd Visits Maria - 294581ms
 Miss Johanna Kidd - 54982ms
 "End Titles (from the Motion Picture ""News Of The World"") - 310295ms"
 A Hidden Life - 170653ms
-"Israel in Egypt, HWV 54, Part I, No. 15 ""Double Chorus: And Israel Saw That Great Work"" & 16 ""Chorus: And Believed The Lord"" - 266000ms"
 Surrounded by Walls - 173986ms
 Indoctrination - 133026ms
 Morality in Darkness - 193853ms
 Love and Suffering - 465320ms
-Tabula rasa: II. Silentium - 948626ms
 Hope - 150440ms
 Descent - 386706ms
-"Czech Suite in D Major, Op. 39: I. Allegro moderato - 235413ms"
-"Kleines Requiem für eine Polka, Op. 66: IV. Adagio Cantabile - 386360ms"
 Knotted - 219893ms
 There Will Be No Mysteries - 283413ms
 The Nutcracker and the Four Realms - 122146ms
@@ -101,8 +94,6 @@ The Bridge Fight - 141506ms
 Clockwork Mice - 91066ms
 The Machine Room Fight - 319533ms
 Queen Clara - 389760ms
-The Nutcracker Suite - 239653ms
-"Fall On Me - From Disney's ""The Nutcracker And The Four Realms"" / English Version - 259200ms"
 The Thestral Chase - 484746ms
 Newt and Leta - 152106ms
 Dumbledore - 131240ms
@@ -128,12 +119,6 @@ Fantastic Beasts: The Crimes of Grindelwald - 160533ms
 Dumbledore's Theme - Solo Piano - 87626ms
 Fantastic Beasts Theme - Solo Piano - 97200ms
 Leta's Theme - Solo Piano - 124403ms
-"Fall On Me - From Disney's ""The Nutcracker And The Four Realms"" / German Version - 258813ms"
-Fall On Me - 258813ms
-Ven a Mi - 258813ms
-"Fall On Me - From Disney's ""The Nutcracker And The Four Realms"" / Italian Version - 258720ms"
-"Fall On Me - From Disney's ""The Nutcracker And The Four Realms"" / Russian Version - 258812ms"
-"Fall On Me - From Disney's ""The Nutcracker And The Four Realms"" / French Version - 258893ms"
 Overture - 694346ms
 The Steam Room - 139226ms
 One Night is All I Ask - 89693ms
@@ -191,7 +176,6 @@ Soup and Leaflets - Bonus Track - 139810ms
 Billywig - Bonus Track - 91189ms
 The Demiguise and the Lollipop - Bonus Track - 58589ms
 I'm Not Your Ma - Bonus Track - 124575ms
-Blind Pig - Bonus Track - 89429ms
 Newt Talks to Credence - Bonus Track - 133335ms
 "End Titles, Pt. 2 (Fantastic Beasts and Where to Find Them) - Bonus Track - 82255ms"
 Kowalski Rag - Bonus Track - 312941ms
@@ -242,7 +226,6 @@ Ravenna Returns - 253813ms
 This Is My Kingdom - 222933ms
 Stand or Fall Together - 502560ms
 Ravenna's Embrace - 207720ms
-Castle - The Huntsman Winter's War Version - 260784ms
 "Prim Visits Peeta - From ""The Hunger Games: Mockingjay, Part 2"" Soundtrack - 85573ms"
 "Send Me To District 2 - From ""The Hunger Games: Mockingjay, Part 2"" Soundtrack - 129546ms"
 "Go Ahead, Shoot Me - From ""The Hunger Games: Mockingjay, Part 2"" Soundtrack - 298933ms"
@@ -308,7 +291,6 @@ Prema Followed - 195466ms
 Be at Peace - 228253ms
 Bennet's Decision - 245306ms
 Concussion End Titles - 179453ms
-In the Darkness - 231266ms
 The Mockingjay - 159960ms
 Remind Her Who The Enemy Is - 149986ms
 District 12 - 203973ms
@@ -382,10 +364,6 @@ The Iron Gauntlet - 95093ms
 True Love's Kiss - 153266ms
 Maleficent Is Captured - 462480ms
 The Queen of Faerieland - 205466ms
-Once Upon a Dream - Pop Version - 201813ms
-Once Upon a Dream - End Credit/Japanses Version - 203680ms
-Once Upon a Dream - 200373ms
-"Once Upon a Dream - From ""Maleficent"" / Pop Version - 200373ms"
 The History of Man - 143040ms
 I'm Not Advancing You - 88320ms
 Pack Your Bags - 100760ms
@@ -468,7 +446,6 @@ Simon Ross - 97120ms
 LARX Tarmac - 105400ms
 Magsaysay Suite - 183866ms
 Aftermath - 168800ms
-Extreme Ways (Bourne's Legacy) - 290826ms
 Snow White - 204093ms
 I'll Take Your Throne - 180093ms
 Tower Prayers - 127426ms
@@ -480,14 +457,12 @@ Journey To Fenland - 218400ms
 Fenland In Flames - 248293ms
 Sanctuary - 153013ms
 White Hart - 397280ms
-Gone - 189506ms
 I Remember That Trick - 335080ms
 Death Favors No Man - 372786ms
 Warriors On The Beach - 292266ms
 You Can Not Defeat Me - 155120ms
 You Can't Have My Heart - 117360ms
 Coronation - 126200ms
-Breath Of Life - 251106ms
 The Hunger Games - 70400ms
 Katniss Afoot - 109053ms
 Reaping Day - 95493ms
@@ -568,27 +543,27 @@ The Burp Heard 'Round The World - 110800ms
 The Harvest - 125466ms
 Leaps Of Faith - 347173ms
 Animated Titles - 177760ms
-Tracking Elise - 95119ms
-Burned Letter - 141492ms
+Tracking Elise - 95120ms
+Burned Letter - 141493ms
 Paranoid Math Teacher - 213426ms
 Arrival At Venice - 186466ms
-Elise Offers A Ride - 112639ms
-A Very Nice Kiss - 124332ms
-Bedroom Dreams - 178692ms
-Piecing It Together - 191079ms
-Rooftop Run - 318012ms
+Elise Offers A Ride - 112640ms
+A Very Nice Kiss - 124333ms
+Bedroom Dreams - 178693ms
+Piecing It Together - 191080ms
+Rooftop Run - 318013ms
 Chase Through The Canals - 345186ms
-Because I Kissed You - 214799ms
+Because I Kissed You - 214800ms
 A Very Nice Hotel - 147026ms
 Arriving At The Ball - 124906ms
-Your Choice In Men - 124492ms
+Your Choice In Men - 124493ms
 Sudden Departure - 123426ms
 The Infinite Price - 450306ms
 The Janus Safe - 181746ms
-Rain Of Bullets - 89839ms
-Elise & Alexander - 161919ms
-Personal Cheque - 117572ms
-Dance In F - 162172ms
+Rain Of Bullets - 89840ms
+Elise & Alexander - 161920ms
+Personal Cheque - 117573ms
+Dance In F - 162173ms
 Airbender Suite - 676853ms
 Earthbenders - 353600ms
 The Avatar Has Returned - 282893ms

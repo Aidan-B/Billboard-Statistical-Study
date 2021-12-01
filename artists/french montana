@@ -1,4 +1,4 @@
-552
+526
 ICU - 46796ms
 How You King? - 215450ms
 FWMGAB - 187819ms
@@ -20,6 +20,7 @@ Prayer (Skit) - 61334ms
 Appreciate Everything - 174506ms
 Losing Weight - 304283ms
 FWMGAB (Remix) [Bonus] (feat. Moneybagg Yo) - 186532ms
+Cold (feat. Tory Lanez) - 219464ms
 Too Late (feat. Jim Jones) - 195218ms
 Brothers (feat. Lil Durk) - 187944ms
 Double G (feat. Pop Smoke) - 157739ms
@@ -99,9 +100,7 @@ Last of the Real Ones (feat. Zack) - 349570ms
 Angel - 257306ms
 Sometimes - 170657ms
 Gangsta Way (feat. Chris Brown) - 221544ms
-Damn Chainz (feat. Nitt Da Gritt) - 224835ms
 Jamaican Trainer Skit - 42736ms
-My Squad - 113423ms
 See Me (feat. Lil Durk) - 237897ms
 Concentration - 168045ms
 Hang On (Intro) - 286893ms
@@ -126,26 +125,14 @@ Sweetest Thing - 255133ms
 Let You Know - 182280ms
 Playing In The Wind II - 193666ms
 OG Bobby Johnson - 145160ms
-My Nigga - 108466ms
-Who Do You Love - 267666ms
-Laugh - 193400ms
-We Dem Boyz - 219560ms
 Money Baby - 183080ms
 Gas Pedal - 140720ms
-Up Down - 228773ms
-Paranoid - 197226ms
-2AM - 208200ms
-Own It - 268360ms
-My Lady - 71986ms
 Syndrome - 161013ms
-Hey Now - 200693ms
-Banned From Radio - 62013ms
 Feelings - 253533ms
-Cold One Interlude - 132106ms
-It's a Cold One - 154093ms
 Once In A While - 287706ms
 Trap House - 264573ms
 Ain't Worried About Nothin - 212426ms
+Paranoid - 267453ms
 When I Want - 218933ms
 Fuck What Happens Tonight - 327226ms
 Gifted - 248800ms
@@ -159,8 +146,7 @@ Drink Freely - 248560ms
 Throw It In The Bag - 305760ms
 Marble Floors - 230733ms
 Ocho Cinco - 246413ms
-Ima Coke Boy - Remix - 220026ms
-40 - 252306ms
+40 - 252293ms
 Drop a Gem On Em - 172935ms
 Clap - 186123ms
 Actin Up - 239046ms
@@ -287,7 +273,6 @@ Labor Day - 183320ms
 Wasted - 159800ms
 Had It All - Remix - 168480ms
 For the Soul (feat. Heat Scalese) - 221640ms
-I'm a Boss (Freestyle) - 109360ms
 Call Me Montana - 107360ms
 Gucci Gucci - 99146ms
 I'm on Already - 76000ms
@@ -310,25 +295,15 @@ Uptown - 108373ms
 Tell Me When - 283173ms
 Boo Billz Back - 153786ms
 Casino Life - The Intro - 168739ms
-What Up Tho? (feat. Slim Thug) - 218253ms
 Ready To Go - 187733ms
 What They Talking About - 176509ms
-"Take It Off (feat. Waka Flocka Flame, Yg & Joe Moses) - 230550ms"
 All Night - 209699ms
-Sun Tzu (feat. N.O.R.E. & Joell Ortiz) - 223770ms
-I Made It (feat. Rick Ross & Masspike Miles) - 224513ms
-"Coke Boys (feat. Chinx Drugz, Flip & Charlie Yg) - 270419ms"
 Me & U - 166742ms
 I Think I Love Her - 209235ms
-Give It 2 Em (feat. Rick Ross & Akon) - 391967ms
 Soul Food - 183928ms
-Buku Money (feat. Slim Thug) - 186711ms
-Alright (feat. Three 6 Mafia) - 209699ms
 Movie - 229529ms
 Shot Caller - 180062ms
-I'm A Groupie (Bonus Track) (feat. Gudda Gudda) - 200666ms
 Ridiculous (Bonus Track) - 187617ms
-Break 'em Down (Bonus Track) (feat. Young Chris) - 212509ms
 Return Of Da Mac (Bonus Track) - 165906ms
 Whut Up Doe (feat. Slim Thug) - 230040ms
 Ready - 173173ms
@@ -342,6 +317,7 @@ I Think I Luv Her - 181240ms
 "Skit, Pt. 2 - 62346ms"
 Give It To Em (feat. Akon & Rick Ross) - 337293ms
 Buko Money (feat. Suss One & Slim Thug) - 175573ms
+Alright (feat. Three 6 Mafia) - 176453ms
 Outro/Bonus - 485506ms
 "Party Ain't a Party (feat. Chinx Drugz, Cheeze & Flip) - 211565ms"
 Making Love to the Money (feat. Corte Ellis) - 166034ms
@@ -510,7 +486,6 @@ Shawty Baby - 183800ms
 We Ain't Got Nothing To Lose (feat. Akon) - 151600ms
 New Nigga Now - 256320ms
 City Of Dreams (feat. AR-AB & Cassidy) - 234053ms
-Coke Wave Intro - 29960ms
 Stake Sauce - 207626ms
 It Gotta Be - 172436ms
 "Goon Music (feat. Dame Grease, Meeno & E-Snaps) - 253293ms"
@@ -520,7 +495,6 @@ Battlefield - 198600ms
 Smoking - 215293ms
 Here It Is - 197546ms
 Brick Walls - 169560ms
-Skit 2 - 29053ms
 Been Around - 212186ms
 I Warned U - 171186ms
 Burry Me A G (feat. Dame Grease) - 190720ms

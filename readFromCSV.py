@@ -46,6 +46,8 @@ def splitTop100Artists(top100Artists):
             # for each split artist, add them individually to splitTop100Artists
             for artist in artists:
                 splitTop100Artists.append(artist)
+        else: 
+            splitTop100Artists.append(artist)
 
     return splitTop100Artists
 

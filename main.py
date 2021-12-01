@@ -25,25 +25,32 @@ sampledSongs = readFromCSV.readAndSampleTop100SongsDurations()
 # print("The mean of the sample of top 100 songs is {} seconds".format(mean/1000))
 
 
-# print("Writing artist song lists")
-# top100ArtistsList = top100SongsAndArtists[1]
-top100ArtistsList = ["twenty one pilots"]
+print("Writing artist song lists")
+top100ArtistsList = top100SongsAndArtists[1]
+# top100ArtistsList = ["twenty one pilots"]
+sampleIndex = 0
+startIndex = 296
 for artist in top100ArtistsList:
-    print(artist)
-    albums = s.get_albums(
-        s.get_artist_albums(
-            s.get_artist_id(artist)
+    if startIndex <= sampleIndex:
+        print(artist)
+        albums = s.get_albums(
+            s.get_artist_albums(
+                s.get_artist_id(artist)
+            )
         )
-    )
 
-    tracks = []
-    for album in albums:
-        for track in album['tracks']['items']:
-            tracks.append(track)
-            
-    tracks = s.remove_duplicates(tracks)
+        tracks = []
+        for album in albums:
+            for track in album['tracks']['items']:
+                
+                for artists in track['artists']:
+                    if artists['name'].lower() == artist.lower():
+                        tracks.append(track)
+                
+        tracks = s.remove_duplicates(tracks)
 
-    writeToCSV.writeTopArtistDurations(tracks, artist)
+        writeToCSV.writeTopArtistDurations(tracks, artist)
+    sampleIndex += 1
 
 print("Finished writing files")
 
