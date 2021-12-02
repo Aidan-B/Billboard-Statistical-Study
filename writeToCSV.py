@@ -7,14 +7,23 @@ def writeTop100SongsDurations(songTitles):
     with open('top100SongsDurations.txt', 'w', encoding="utf-8") as file:
                 
         output = []
+        artists = []
         for song in songTitles:
             # call to Spotify API to get track response using songTitle
             song = s.get_track(song)['tracks']['items'][0]
+            artists += [ { "name": artist['name'], "id": artist['id'] } for artist in song['artists'] ]
             output.append("\"{}\"\t\"{}\"\t{}\n".format(song['id'], song['name'], song['duration_ms']))
         
         file.writelines(
             ["{}\n".format(len(songTitles))] + output
         )
+    
+    artists = [dict(t) for t in {tuple(d.items()) for d in artists}]
+    with open('top100Artists.txt', 'w', encoding="utf-8") as file:
+         file.writelines(["\"{}\"\t\"{}\"\n".format(artist['id'], artist['name']) for artist in artists])
+
+
+    return artists
 
 
 def writeTopArtistDurations(songs, artistName):

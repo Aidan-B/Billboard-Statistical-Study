@@ -3,7 +3,7 @@ import json
 import math
 import collections
 
-token = "BQDxjQmVNaIkpG7Krs26YNJel-g52LhiwCWcc8JJTKqcvz9SdwgdyaJLIVFuCbCSBkLncV9W6llOMo9CLkkp6HAqyo_EmbJgSS4wPtFAcAquxH4It0lH1kcgFISolQlX0aacxdp4nP76u9yKvYw"
+token = "BQAQ31MG0lZX0WmE5atOWyGKk1aGIYaJ4dUHB7qFHC7olI6E1p3HRv-OGXriDv4OgsdldHSOaZdMV6d4-DhtFoC3Gto7ed12Q_mBrAL_Ya24FLejYLEpAdgguwV7C1vLDI1U1Q3Cc6SAQrZ7SJ2oIGUuSoI_X2o"
 
 headers = {
     'content-type': 'application/json',
@@ -21,7 +21,7 @@ def get_artists(ids):
         idList.append(ids[(i*20):(i*20)+20])
         
     for id in idList:
-        params = {'ids': ','.join(id) }
+        params = {'ids': ','.join(id), 'market': 'US' }
         output += json.loads(requests.get(url, params=params, headers=headers).text)['artists']
 
     output = remove_duplicates(output)
@@ -37,7 +37,7 @@ def get_tracks(ids):
         idList.append(ids[(i*50):(i*50)+50])
         
     for id in idList:
-        params = {'ids': ','.join(id) }
+        params = {'ids': ','.join(id), 'market': 'US' }
         output += json.loads(requests.get(url, params=params, headers=headers).text)['tracks']
 
     output = remove_duplicates(output)
@@ -48,6 +48,7 @@ def get_track(query):
     url = spotify + '/search'
     params = {
         'q': query,
+        'market': 'US',
         'type': 'track',
     }
     return json.loads(requests.get(url, params=params, headers=headers).text)
@@ -60,7 +61,7 @@ def get_albums(ids):
         idList.append(ids[(i*20):(i*20)+20])
         
     for id in idList:
-        params = {'ids': ','.join(id) }
+        params = {'ids': ','.join(id), 'market': 'US' }
         query = requests.get(url, params=params, headers=headers)
         output += json.loads(query.text)['albums']
 
@@ -73,6 +74,7 @@ def get_track_id(songTitle):
     url = spotify + '/search'
     params = {
         'q': songTitle,
+        'market': 'US',
         'type': 'track',
     }
     response = json.loads(requests.get(url, params=params, headers=headers).text)

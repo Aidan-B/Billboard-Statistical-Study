@@ -9,7 +9,7 @@ def hunt_duplicates():
     allSongs = []
 
     for file in files:
-        with open("./artists/{}".format(file), 'r', encoding="mbcs") as f:
+        with open("./artists/{}".format(file), 'r', encoding="utf-8") as f:
             
             lines = f.readlines()
             lines.pop(0)
