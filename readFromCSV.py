@@ -102,7 +102,7 @@ def removeTop100SongsfromTop100Artists():
                 # print("Appended " + line)
 
         # get number of songs in CSV file (first row in the file)
-        numberOfSongs = top100SongsList[0]
+        numberOfSongs = top100SongsList.pop(0)
         print("Got number of top 100 songs: " + numberOfSongs)
 
     #list to contain the artist's songs excluding those on the Top 100
@@ -112,9 +112,10 @@ def removeTop100SongsfromTop100Artists():
         #read each line/song of the artist, save the full version and just the song title
         duplicatedSongs = []
         foundDuplicates = 0
+        f.readline()
         for line in f:
-            artistSong = f.readline().strip()
-            artistSongIdentifier = re.split("\t", artistSong)[0]
+            artistSong = line.strip()
+            artistSongIdentifier = re.split("\t", artistSong)
 
             # loop through each song in the top100List, comparing to the current artist song
             # duplicate set to true if the artist song matches the current top 100 
@@ -122,12 +123,13 @@ def removeTop100SongsfromTop100Artists():
                 duplicate = False
 
                 # breakpoint for twenty one pilots ride: top100SongIdentifier == "\"2Z8WuEywRWYTKe1NybPQEW\""
-                top100SongIdentifier = re.split("\t", top100song)[0]
-                if artistSongIdentifier == top100SongIdentifier:
+                top100SongIdentifier = re.split("\t", top100song)
+                if artistSongIdentifier[0] == top100SongIdentifier[0] or artistSongIdentifier[1] == top100SongIdentifier[1]:
                     duplicate = True
                     duplicatedSongs.append(top100song)
                     foundDuplicates += 1
                     print(artistSong + " is a duplicate")
+                    
                     # BREAK HERE?
 
             #if the current artist song does not appear on the top 100 list, append the full line to the array

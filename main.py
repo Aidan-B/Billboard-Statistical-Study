@@ -70,11 +70,12 @@ def get_sample_and_export_sample_for_artists(sample_size):
     print("Writing artists songs sample list")
     writeToCSV.writeArtistsSongsSample(songsInSample)
 
-print("Reading top 100 songs and artist list")
-top100SongsAndArtists = readFromCSV.readTop100SongsAndArtists()
+
+# print("Reading top 100 songs and artist list")
+# top100SongsAndArtists = readFromCSV.readTop100SongsAndArtists()
 
 # print("Writing top 100 songs durations")
-# top100Artists = writeToCSV.writeTop100SongsDurations(top100SongsAndArtists[0])
+# # top100Artists = writeToCSV.writeTop100SongsDurations(top100SongsAndArtists[0])
 
 # top100Artists = []
 # with open('top100Artists.txt') as csv_file:
@@ -84,8 +85,8 @@ top100SongsAndArtists = readFromCSV.readTop100SongsAndArtists()
 
 
 # print("Collecting all songs by artists")
-# collect_all_songs_for_artists(top100Artists, 434)
-duplicateHunter.hunt_duplicates()
+# collect_all_songs_for_artists(top100Artists, 0)
+# duplicateHunter.hunt_duplicates()
 
 print("Removing duplicates between top 100 songs and artist list")
 readFromCSV.removeTop100SongsfromTop100Artists()
