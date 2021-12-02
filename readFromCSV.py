@@ -124,7 +124,7 @@ def removeTop100SongsfromTop100Artists():
 
                 # breakpoint for twenty one pilots ride: top100SongIdentifier == "\"2Z8WuEywRWYTKe1NybPQEW\""
                 top100SongIdentifier = re.split("\t", top100song)
-                if artistSongIdentifier[0] == top100SongIdentifier[0] or artistSongIdentifier[1] == top100SongIdentifier[1]:
+                if artistSongIdentifier[0] == top100SongIdentifier[0] or (artistSongIdentifier[1] == top100SongIdentifier[1] and artistSongIdentifier[2] == top100SongIdentifier[2]):
                     duplicate = True
                     duplicatedSongs.append(top100song)
                     foundDuplicates += 1
