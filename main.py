@@ -37,18 +37,18 @@ def collect_all_songs_for_artists(artistList, startIndex):
 
     print("Finished writing files")
 
-print("Reading top 100 songs and artist list")
-top100SongsAndArtists = readFromCSV.readTop100SongsAndArtists()
+# print("Reading top 100 songs and artist list")
+# top100SongsAndArtists = readFromCSV.readTop100SongsAndArtists()
 
-print("Writing top 100 songs durations")
-writeToCSV.writeTop100SongsDurations(top100SongsAndArtists[0])
+# print("Writing top 100 songs durations")
+# writeToCSV.writeTop100SongsDurations(top100SongsAndArtists[0])
 
-# print("Reading and sampling top 100 songs durations")
-# print(
-#     "The mean of the sample of top 100 songs is {} ms".format(
-#         calculate_mean([ int(sample) for sample in readFromCSV.readAndSampleTop100SongsDurations(300)], 300)
-#     )
-# )
+print("Reading and sampling top 100 songs durations")
+print(
+    "The mean of the sample of top 100 songs is {} ms".format(
+        calculate_mean([ int(sample) for sample in sampleSelector.samples_from_top_100(300)], 300)
+    )
+)
 
 # print("Collecting all songs by artists")
 # collect_all_songs_for_artists(top100SongsAndArtists[1], 0)
@@ -60,8 +60,5 @@ writeToCSV.writeTop100SongsDurations(top100SongsAndArtists[0])
 #         calculate_mean([ int(sample[2]) for sample in sampleSelector.samples_from_artists(300)], 300)
 #     )
 # )
-
-
-
 
 # print(duplicateHunter.hunt_duplicates())

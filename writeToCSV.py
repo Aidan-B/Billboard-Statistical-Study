@@ -4,13 +4,12 @@ import spotify_api as s
 def writeTop100SongsDurations(songTitles):
 
     # open the file in the write mode
-    with open('top100SongsDurations.txt', 'w') as file:
+    with open('top100SongsDurations.txt', 'w', encoding="utf-8") as file:
                 
         output = []
-        for songTitle in songTitles:
-            
+        for song in songTitles:
             # call to Spotify API to get track response using songTitle
-            song = s.get_track(songTitle)['tracks']['items'][0]
+            song = s.get_track(song)['tracks']['items'][0]
             output.append("\"{}\"\t\"{}\"\t{}\n".format(song['id'], song['name'], song['duration_ms']))
         
         file.writelines(

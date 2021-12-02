@@ -3,6 +3,60 @@ import random
 import math
 import re
 
+def samples_from_top_100(samples):
+    with open('top100SongsDurations.txt', encoding="utf-8") as csv_file:
+        songsInSample = []
+        songDurationsInSample = []
+
+        # init a random number generator using the current time as the seed
+        random.seed()
+
+        list = []
+
+        # add each line in the csv file to a list
+        for line in csv_file:
+            # remove any whitespace in the line
+            line = line.strip()
+            # if the line is not blank, then append it to the list of lines
+            if line:
+                list.append(line)
+                # print("Appended " + line)
+
+        # get number of songs in CSV file (first row in the file)
+        numberOfSongs = list[0]
+        # print("Got number of songs: " + numberOfSongs)
+
+        # loop until there are enough samples in the songDurationsInSample array
+        while len(songDurationsInSample) < samples:
+            # generate a random number between 1 (do not include row 0 since that specifies number of songs in the CSV) 
+            # and the total number of songs
+            randomNum = random.randint(1, int(numberOfSongs)-1)
+            # print("Random number is: " + str(randomNum))
+
+            # get number of songs in CSV file (first row in the file)
+            songToBeSampled = list[randomNum]
+            # print("Song to be sampled is: " + songToBeSampled)
+
+            # split the string after the \t character once, and select the third element (the duration in ms)
+            sampledSongDuration = songToBeSampled.split("\t",2)[2]
+
+            # check to see if a song has already been sampled
+            hasAlreadyBeenSampled = False
+            # loop through existing songsInSample
+            for song in songsInSample:
+                # compare the ids of the song to be sampled and the existing songs in the sample
+                if songToBeSampled.split("\t",2)[0] == song.split("\t",2)[0]:
+                    # if the songToBeSampled has already been sampled, set hasAlreadyBeenSampled
+                    hasAlreadyBeenSampled = True
+                    # print("Song has already been sampled")
+                    break
+
+            if hasAlreadyBeenSampled == False:
+                # add the song duration to sample array
+                songDurationsInSample.append(sampledSongDuration)
+                songsInSample.append(songToBeSampled)
+
+        return songDurationsInSample
 
 def samples_from_artists(samples):
     output = []

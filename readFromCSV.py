@@ -23,7 +23,10 @@ def readTop100SongsAndArtists():
                 # odd lines are song titles, add them to the songs list
                 top100SongsList.append(line[0])
             else:
-                # even lines are artists, add them to the artists list
+                # even lines are artists, append the artist name to the associated song in the songs list, 
+                # then add them to the artists list
+                indexOfLastSong = len(top100SongsList)-1
+                top100SongsList[indexOfLastSong] = top100SongsList[indexOfLastSong] + " " + line[0]
                 top100ArtistsList.append(line[0])
             #increment line count    
             line_count += 1
@@ -56,7 +59,8 @@ def removeDuplicatesFromTop100Artists(top100Artists):
     filteredTop100Artists = []
     # lowercase all artist names in the top100Artists array
     top100Artists = [artist.lower() for artist in top100Artists]
-    # convert into a collections.Counter which has no duplicates, then add each element in the collections.Counter to the filtered array
+    # convert into a collections.Counter which has no duplicates, then add each element in the 
+    # collections.Counter to the filtered array
     filteredTop100Artists = [i for i in collections.Counter(top100Artists)]
 
     return filteredTop100Artists
@@ -70,63 +74,6 @@ def removeDuplicatesFromTop100Songs(top100Songs):
     filteredTop100Songs = [i for i in collections.Counter(lowercaseTop100Songs)]
 
     return filteredTop100Songs
-
-def readAndSampleTop100SongsDurations(samples):
-    with open('top100SongsDurations.txt') as csv_file:
-        songsInSample = []
-        songDurationsInSample = []
-
-        # init a random number generator using the current time as the seed
-        random.seed()
-
-        list = []
-
-        # add each line in the csv file to a list
-        for line in csv_file:
-            # remove any whitespace in the line
-            line = line.strip()
-            # if the line is not blank, then append it to the list of lines
-            if line:
-                list.append(line)
-                # print("Appended " + line)
-
-        # get number of songs in CSV file (first row in the file)
-        numberOfSongs = list[0]
-        # print("Got number of songs: " + numberOfSongs)
-
-        # loop until there are enough samples in the songDurationsInSample array
-        while len(songDurationsInSample) < samples:
-            # generate a random number between 1 (do not include row 0 since that specifies number of songs in the CSV) and the total number of songs
-            randomNum = random.randint(1, int(numberOfSongs)-1)
-            # print("Random number is: " + str(randomNum))
-
-            # get number of songs in CSV file (first row in the file)
-            songToBeSampled = list[randomNum]
-            # print("Song to be sampled is: " + songToBeSampled)
-
-            # split the string after the \t character once, and select the second element
-            sampledSongDuration = songToBeSampled.split("\t",1)[1]
-
-            # if the song includes a quotation mark character ", then remove it
-            if "\"" in songToBeSampled:
-                sampledSongDuration = sampledSongDuration.replace("\"","")
-
-            # check to see if a song has already been sampled
-            hasAlreadyBeenSampled = False
-            # loop through existing songsInSample
-            for song in songsInSample:
-                if songToBeSampled == song:
-                    # if the songToBeSampled has already been sampled, set hasAlreadyBeenSampled
-                    hasAlreadyBeenSampled = True
-                    # print("Song has already been sampled")
-                    break
-
-            if hasAlreadyBeenSampled == False:
-                # add the song duration to sample array
-                songDurationsInSample.append(sampledSongDuration)
-                songsInSample.append(songToBeSampled)
-
-        return songDurationsInSample
 
 
 

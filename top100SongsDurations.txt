@@ -1,4 +1,4 @@
-883
+904
 "0HPD5WQqrq7wPWR7P7Dw1i"	"TiK ToK"	199693
 "11EX5yhxr9Ihl3IN1asrfK"	"Need You Now"	277573
 "4HlFJV71xXKIGcU3kRyttv"	"Hey, Soul Sister"	216773
@@ -7,10 +7,10 @@
 "6lV2MSQmRIkycDScNtrBXO"	"Airplanes (feat. Hayley Williams of Paramore)"	180480
 "15JINEqzVMv3SvJTAXAKED"	"Love The Way You Lie"	263373
 "0SiywuOBRcynK0uKGWdCnn"	"Bad Romance"	294573
-"4saklk6nie3yiGePpBwUoc"	"Dynamite"	199053
-"7ElF5zxOwYP4qVSWVvse3W"	"Break Your Heart"	201546
+"2CEgGE6aESpnmtfiZwYlbV"	"Dynamite"	202613
+"1CdqVF1ywD0ZO1zXtB9yWa"	"Break Your Heart"	186266
 "59dLtGBS26x7kc0rHbaPrq"	"Nothin' on You (feat. Bruno Mars)"	268320
-"58q2HKrzhC3ozto2nDdN4z"	"I Like It"	253390
+"4nVyHATevhl5RC6Qmoko5H"	"I Like It"	231786
 "3iL2l5gUqyPS6vDwJFgJTR"	"BedRock"	288133
 "0TyOpxlWwDx98bjkIVHUgY"	"In My Head"	198960
 "60jzFy6Nn4M0iD1d94oteF"	"Rude Boy"	222920
@@ -42,37 +42,37 @@
 "6cmm1LMvZdB5zsCwX5BjqE"	"Down"	212506
 "3kMrazSvILsgcwtidZd1Qd"	"Bulletproof"	205733
 "2zJZwWF7BTGIIvrAlgzJEx"	"Whatcha Say"	221253
-"4MrfQL4TYQXJBlZYpAHTuE"	"Baby, It's Cold Outside"	143733
+"6epn3r7S14KUqlReYr77hA"	"Baby"	214240
 "2rDwdvBma1O1eLzo29p2cr"	"Whataya Want from Me"	227320
-"7uzmGiiJyRfuViKKK3lVmR"	"Mine"	131064
+"0dBW6ZsW8skfvoRfgeerBF"	"Mine"	230706
 "2ENexcMEMsYk0rVJigVD3i"	"Only Girl (In The World)"	235493
 "1HfxPaJggVwFsvOtHbVzMz"	"Live Like We're Dying"	212506
-"05NYcsjJwOYq4jIiKPVj9p"	"Hard To Handle"	188066
+"3YJkAQNEhmCZGLdmPsu6Ye"	"Hard"	250600
 "35srNkJVToAzYiZzron1FY"	"Young Forever"	253906
-"65lC7Ey8QaVLvItAMF6Ap8"	"Blah Blah Blah"	183518
+"7lWUJpax919G4JdaFEVmCy"	"Blah Blah Blah (feat. 3OH!3)"	172053
 "4AYX69oFP3UOS1CFmV9UfO"	"Bottoms Up (feat. Nicki Minaj)"	242013
 "6A5NlmBCsCGbJ27jHQgKV5"	"Do You Remember"	210800
 "5XRHGXut00SrJUFmcn2lQF"	"All The Right Moves"	238000
 "72phhQtfwZcRweweRxxkmU"	"According To You"	200346
 "3bMNprrp2JDKZsGbiXpsJl"	"My Chick Bad"	216933
-"3GCL1PydwsLodcpv0Ll1ch"	"You Belong With Me"	231133
+"1qrpoAMXodY6895hGKoUpA"	"You Belong With Me (Taylor’s Version)"	231124
 "0xfpx7AiwgSKEtjotea2L6"	"Meet Me Halfway"	284373
 "0WCiI0ddWiu5F2kSHgfw5S"	"Take It Off"	215200
-"4btFHqumCO31GksfuBLLv3"	"Overpass Graffiti"	236906
+"3yaYgjEFkRw3PVjW9mV1TO"	"Over The Top (feat. Drake)"	153406
 "1fBl642IhJOE5U319Gy2Go"	"Animal"	212293
-"6SpLc7EXZIPpy0sVko0aoU"	"Misery Business"	211520
-"1IuREWAjUkLESjfN39hSaQ"	"Magic"	285014
+"3XojqFisTYTQm2p7HK5p4P"	"Misery"	216200
+"5uHYcK0nbEYgRaFTY5BqnP"	"Magic (feat. Rivers Cuomo)"	196133
 "7Hqig8kp32q2Ire3ECQvWM"	"Paparazzi"	208306
-"4QVS8YCpK71R4FsxSMCjhP"	"Tie Me Down (with Elley Duhé)"	218295
-"5YaskwnGDZFDRipaqzbwQx"	"Your Love (9PM)"	150052
-"3dqgHuPzYkmYL0k1hdG5Rn"	"Party in the U.S.A."	204000
+"4faiJXyBflUVVOOE9fxbeg"	"Tie Me Down (feat. Ray J)"	178807
+"1w6kG4Rc29m5EherbvpkF5"	"Your Love"	245253
+"68LNIOMjcliUHjW0turxcP"	"Party In The U.S.A."	203813
 "6wN4nT2qy3MQc098yL3Eu9"	"Deuces (feat. Tyga & Kevin McCall)"	276560
-"6Im9k8u9iIzKMrmV7BWtlF"	"34+35"	173710
-"5yVIlYEHZxQVLyInCdldoS"	"Impossible"	209440
-"6IBcOGPsniK3Pso1wHIhew"	"Forever After All"	232533
+"6pymOcrCnMuCWdgGVTvUgP"	"3"	213173
+"45EDI3rk0f4cAMt9f8b56R"	"Impossible"	226533
+"5UsLjwBaTHBX4ektWIr4XX"	"Forever"	357706
 "1MaqkdFNIKPdpQGDzme5ss"	"Two Is Better Than One (feat. Taylor Swift)"	242840
 "17tDv8WA8IhqE8qzuQn707"	"My First Kiss (feat. Ke$ha)"	192440
-"5zCunX8URvLoBHlg1Fnjv6"	"Already Gone"	243007
+"4fq2YUONcgrCJ2SPndSeKC"	"Already Gone"	281560
 "5K5LbSTVuKKe1KGMNfBgIW"	"Rock That Body"	268840
 "1NhPKVLsHhFUHIOZ32QnS2"	"Secrets"	224693
 "1YaVmBh7EAeR54FIjuFcb5"	"Naturally"	202586
@@ -80,11 +80,11 @@
 "12PNcnMsjsZ3eHm62t8hiy"	"All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)"	232506
 "6H2wnX7ytNeCKERIVqCwgs"	"I Made It (Cash Money Heroes)"	249546
 "0JcKdUGNR7zI4jJDLyYXbi"	"Stuck Like Glue"	247586
-"030OCtLMrljNhp8OWHBWW3"	"Hey Daddy (Daddy's Home)"	224093
+"1kLYMOFEzQX9PgdKB7VkSL"	"Hey Daddy (Daddy's Home) (feat. Plies)"	256293
 "6IUiqtI8tE49sqGbmtrNd8"	"There Goes My Baby"	281293
 "2JoJrsEV15OzbijS47lids"	"Today Was A Fairytale (Taylor’s Version)"	241822
-"6Vc5wAMmXdKIAM7WUoEb7N"	"Say Something"	229400
-"1TfqLAPs4K3s2rJMoCokcS"	"Sweet Dreams (Are Made of This) - Remastered"	216933
+"7qje9qxLncMESiPeI27SAn"	"Say Something (Featuring Drake)"	240920
+"1FKxKGONukVFXWVJxAKmlz"	"Sweet Dreams"	208066
 "5VGlqQANWDKJFl0MBG3sg2"	"Use Somebody"	230760
 "1Fo2N5iXRi37maMboaig7O"	"Undo It"	177253
 "4vVTI94F9uJ8lHNDWKv0i2"	"Eenie Meenie"	201946
@@ -94,8 +94,8 @@
 "7JIuqL4ZqkpfGKQhYlrirs"	"The Only Exception"	267653
 "4xInIiKipU1mtUogJ3ZdYr"	"American Honey"	224866
 "3VA8T3rNy5V24AXxNK5u9E"	"King of Anything"	207493
-"2c1BSmrSeBEY9FxhzSiFWh"	"Life After You"	188081
-"6wQlQrTY5mVS8EGaFZVwVF"	"Smile (with The Weeknd)"	196180
+"70NGpcNvhI2hqonWNAETIu"	"Life After You"	207213
+"4ZC8hXXqu2hPcDLw9QTdtQ"	"Smile"	201626
 "61LtVmmkGr8P9I2tSPvdpf"	"Teach Me How to Dougie"	237480
 "1yK9LISg5uBOOW5bT2Wm0i"	"Try Sleeping with a Broken Heart"	249013
 "5UzU0qw21okODBNUnxptVo"	"Lover, Lover"	193733
@@ -108,12 +108,12 @@
 "7AqISujIaWcY3h5zrOqt5v"	"Forget You"	222733
 "3hlksXnvbKogFdPbpO9vel"	"Super Bass"	200013
 "7LcfRTgAVTs5pQGEQgUEzN"	"Moves Like Jagger - Studio Recording From "The Voice" Performance"	201160
-"0xuXRQJfxmdP6gvfDe2Z4L"	"Just Can't Get Enough - 2006 Remaster"	222760
+"3JA9Jsuxr4xgHXEawAdCp4"	"Just Can’t Get Enough"	219426
 "3C0nOe05EIt1390bVABLyN"	"On The Floor"	284866
 "7ySUcLPVX7KudhnmNcgY2D"	"S&M"	243600
 "7w87IxuO7BDcJ3YUqCyMTT"	"Pumped Up Kicks"	239600
 "3avYqdwHKEq8beXbeWCKqJ"	"Last Friday Night (T.G.I.F.)"	230733
-"47gk2DKARbcjyWQVZznuqu"	"Tonight (I'm Lovin' You)"	159038
+"4upoSG2nLH8o9mKqkWtrws"	"Tonight (I'm Loving You) [Enrique Iglesias Feat. Ludacris, DJ Frank E] [Karaoke Version]"	242782
 "1gv4xPanImH17bKZ9rOveR"	"Raise Your Glass"	202960
 "6r2BECwMgEoRb5yLfp0Hca"	"Born This Way"	260253
 "3MGJF1CDFGfjXESL2Heva0"	"F**kin' Perfect"	213413
@@ -122,7 +122,7 @@
 "0x3TibRgnSqzkcwrqBd4iX"	"Down On Me"	228453
 "36IZGm2IuECLTxMKa9qajO"	"How To Love"	240306
 "3bNv3VuUOKgrf5hu3YcuRo"	"Someone Like You"	285240
-"14blxrgE0VWAgv5aF2wWmx"	"Good Life"	207000
+"6OtCIsQZ64Vs1EbzztvAv4"	"Good Life"	253306
 "1ExfPZEiahqhLyajhybFeS"	"The Lazy Song"	189109
 "38iU2jg98IZZEIJPrP7aWD"	"Till the World Ends"	237946
 "4NTWZqvfQTlOMitlVn6tew"	"The Show Goes On"	239613
@@ -134,7 +134,7 @@
 "5zpDHEU12zATwLGvozxPw2"	"Lighters"	303813
 "0qOnSQQF0yzuPWsXrQ9paz"	"Stereo Hearts (feat. Adam Levine)"	210960
 "7vWFaMq63AwkFDhS2OAg5u"	"The Time (Dirty Bit)"	307640
-"65GbQI9VDTs7vo6MJL2iJA"	"Coming Home"	206386
+"6Iocm6VMu6bVNYwiDoyQFW"	"Coming Home"	238693
 "3rfhI32Il2hVRKDkuGeeen"	"Hey Baby (Drop It to the Floor) (feat. T-Pain)"	234453
 "6BCs8vxnGgKL9eMCOrG2wm"	"6 Foot 7 Foot"	248586
 "2OXidlnDThZR3zf36k6DVL"	"Just A Kiss"	218840
@@ -146,7 +146,7 @@
 "2QtxlzvSBONjs1bDC34ixs"	"Yeah 3x"	241666
 "1ia019RqDK2o4QiANR1Dyn"	"Moment 4 Life"	279306
 "70ATm56tH7OrQ1zurYssz0"	"I Need A Doctor"	283733
-"0rIAC4PXANcKmitJfoqmVm"	"Motivation"	193837
+"6rbhWExtuchhpLC5fHnB8n"	"Motivation"	230560
 "1AguHaKOuggrVTebp7cZEI"	"Stereo Love - Radio Edit"	184573
 "0HZhYMZOcUzZKSFwPOti6m"	"Jar of Hearts"	246587
 "53DB6LJV9B8sz0p1s6tlGS"	"Roll Up"	227773
@@ -154,16 +154,17 @@
 "45sDIKapDyxPl307QpEAwl"	"Rocketeer"	211253
 "22L7bfCiAkJo5xGSQgmiIO"	"All Of The Lights"	299613
 "7Dyq1bhhjknLKEGg4k5NLr"	"Hold It Against Me"	228826
-"1QEEqeFIZktqIpPI4jSVSF"	"More Than a Feeling"	285133
+"0aBKFfdyOD1Ttvgv0cfjjJ"	"More - RedOne Jimmy Joker Remix"	219986
 "2z4U9d5OAA4YLNXoCgioxo"	"What the Hell"	220706
 "61HQWI1Woxup7CnGwVUsdI"	"Written in the Stars (feat. Eric Turner)"	219560
-"2R4AlwtrrkMaRKojcTIzmL"	"For the First Time"	182306
+"49kjlZP49LMD1MrrcvXDET"	"For the First Time"	252440
 "0gY2iq0xJPRoIB1PScKSw4"	"Honey Bee"	210720
 "7CZiLgkiVHhFcDkI2Y4lZ4"	"Don't You Wanna Stay (with Kelly Clarkson)"	256440
 "1zv3WFUbZ5vPxFq9I2jAU1"	"We Found Love"	215226
 "2Adn2LNgkHMH5TelQVAu4n"	"Pretty Girl Rock"	243920
-"7aohwSiTDju51QmC54AUba"	"You And I"	148400
-"27OeeYzk6klgBh83TSvGMA"	"WITHOUT YOU"	161384
+"6rkAY9rk1NTFB94QxG3LJR"	"Yoü And I"	307346
+"4DvhkX2ic4zWkQeWMwQ2qf"	"Like A G6"	216893
+"1tAutlhI9FwnKn7fVgmd5P"	"Without You (feat. Usher)"	208133
 "3DrjZArsPsoqbLzUZZV1Id"	"Back To December"	293026
 "1nVLAEzhBXMJLR5zAl90Nl"	"Crazy Girl"	200706
 "46MDLc0Yip6xCMSsdePOAU"	"Cheers (Drink To That)"	261746
@@ -171,29 +172,29 @@
 "3ts6xK5GzfMAAriT9AIBmP"	"Barefoot Blue Jean Night"	167426
 "60IGhnH20N82dNxKnc8jDd"	"Knee Deep (feat. Jimmy Buffett)"	203173
 "0yD66650JxhqKbW76C2qCo"	"Country Girl (Shake It For Me)"	225560
-"5sIx4BlfYGuZeSLF40N9GH"	"Remind Me to Forget"	217286
-"4ZB2yAZyPHI6SHdFPPT9sa"	"In The Dark (with Jhené Aiko)"	161164
-"13YxiBp1U1ZLgnlFKuYr1v"	"Backseat"	228545
+"4ABua0yuWcpTotImEEJTaw"	"Remind Me (with Carrie Underwood)"	271906
+"1pbHy9VBpSyZh56xuujZz0"	"In The Dark"	226226
+"4dWjQ3wEfW6KPaaxCoaPH4"	"Backseat (feat. The Cataracs & Dev)"	224093
 "6LxSe8YmdPxy095Ux6znaQ"	"Headlines"	235986
 "3lBRNqXjPp2j3JMTCXDTNO"	"Best Thing I Never Had"	253746
 "4VNOANNPzcfsZzRWUu0SgE"	"Don't Wanna Go Home - 7th Heaven Club Mix"	474826
 "7ks6AZmFcm3Y6PGGxGSmlB"	"Where Them Girls At (feat. Nicki Minaj & Flo Rida)"	194840
 "3dhvQUA0NyrAea4vQ7X6Gn"	"She Ain't You"	248106
 "7B6m8tHAYZsOKOKMU5SR2n"	"Take A Back Road"	209426
-"3cNjgVBKTJ1SvKhunrCdVy"	"Please Don't Go"	210580
+"6jg5SRvdGxvJ0DzNV0UqEK"	"Please Don't Go"	196813
 "0JXXNGljqupsJaZsgSbMZV"	"Sure Thing"	195373
 "5mvKuE9Lf9ARVXVXA32kK9"	"Price Tag"	223053
 "0w9LJae3sVlZlH2CnxTInF"	"God Gave Me You"	229533
-"4llK75pXNWZz6KAho2Gp16"	"She Will Be Loved - Radio Mix"	259453
+"5eEj1vkMIqtmvaTk7cS4UC"	"She Will"	305840
 "2TAcwD5KcV9uY3O1tLGV15"	"Are You Gonna Kiss Me Or Not"	184920
 "1t2hJFgJyUPD2crOafMUEk"	"You and Tequila (feat. Grace Potter)"	242840
 "3U8dHeggJ8IBe0UCb1gbyB"	"Colder Weather"	273893
-"0hsl5A7PsMB5i4alm7ozIu"	"My Last Words"	174168
+"70tFuqBcduJv15bEnOPRTh"	"My Last"	254120
 "4wCmqSrbyCgxEXROQE6vtV"	"Somebody That I Used To Know"	244973
 "38DgNqC7TQkZ3Ih5Vz6K0Q"	"Call Me Maybe"	193853
 "5rgy6ghBq1eRApCkeUdJXf"	"We Are Young (feat. Janelle Monáe)"	250626
 "1LmN9SSHISbtp9LoaR5ZVJ"	"Payphone"	231386
-"4IhTXiZLKATmwhMZIb1GQN"	"Lights Are On"	193749
+"7gUpO6td4OOnu0Lf9vhcIV"	"Lights - Single Version"	211800
 "3AGOgQzp0YcPH41u9p7dOp"	"Glad You Came"	198186
 "1nInOsHbtotAmEOQhtvnzP"	"Stronger (What Doesn't Kill You)"	221946
 "1oHNvJVbFkexQc0BpQp7Y4"	"Starships"	210626
@@ -206,64 +207,64 @@
 "3bC1ahPIYt1btJzSSEyyrF"	"Whistle"	224653
 "4XNrMwGx1SqP01sqkGTDmo"	"One More Night"	219466
 "0KAiuUOrLTIkzkpfpn9jb9"	"Drive By"	195973
-"18asYwWugKjjsihZ0YvRxO"	"The Motto"	164818
+"4Kz4RdRCceaA9VgTqBhBfa"	"The Motto"	181573
 "1uN0f4NqMDcReSwXO6PLuG"	"Where Have You Been"	242680
 "2iUmqdfGZcHIhS3b9E9EWq"	"Everybody Talks"	177280
 "124NFj84ppZ5pAxTuVQYCQ"	"Take Care"	277386
 "77TT8Xvx637TpzV8kKGkUw"	"Titanium (feat. Sia)"	245040
 "53QF56cjZA9RTuuMZDrSA6"	"I Won't Give Up"	240165
 "4rMNgxEwGWoPHIUcvB5BrB"	"It Will Rain"	257847
-"0AS63m1wHv9n4VVRizK6Hc"	"Mercy"	208733
-"0Ryd8975WihbObpp5cPW1t"	"boyfriend (with Social House)"	186106
-"5IFCyWplye09HytIP80RCF"	"Too Close"	259440
+"4qikXelSRKvoCqFcHLB2H2"	"Mercy"	329320
+"3UGIZ8qcrMTwzLbx6Kttqt"	"Boyfriend"	171333
+"4sK96UnGx3NjBaqvfTG2dm"	"Too Close"	256560
 "1nZzRJbFvCEct3uzu04ZoL"	"Part Of Me"	216160
 "5HQVUIKwCEXpe7JIHyY734"	"Young, Wild & Free (feat. Bruno Mars)"	207333
 "5YqltLsjdqFtvqE7Nrysvs"	"We Are Never Ever Getting Back Together (Taylor's Version)"	193146
-"3UpS7kBnkVQYG13pDDFTC4"	"As Long as You Love Me"	221106
-"0BBOLOV5JntPL3341swIre"	"Turn Me On"	192106
+"0pwYLVXVknPSGUQb39cePC"	"As Long As You Love Me"	229466
+"6T27IN7Ai94BeDv6PPCmoC"	"Turn Me On (feat. Nicki Minaj)"	199680
 "4k80K0b6KZ2QjAYkXON7q6"	"Blow Me (One Last Kiss)"	255586
 "1kPpge9JDLpcj15qgrPbYX"	"Good Time"	205933
 "3sP3c86WFjOzHHnbhhZcLA"	"Give Your Heart a Break"	205346
 "4Li2WHPkuyCdtmokzW2007"	"Ni**as In Paris"	219333
 "6hkOqJ5mE093AQf2lbZnsG"	"The One That Got Away"	227333
 "1gihuPhrLraKYrJMAEONyc"	"Feel So Close - Radio Edit"	206413
-"2iJuuzV8P9Yz0VSurttIV5"	"Scream & Shout"	283400
+"12eMQUn2GzfsfsQLH53M19"	"Scream"	234693
 "0srwKuJPH8yBzzFUJMBQM2"	"Rack City"	203200
 "6MAdEUilV2p9RQUqE5bMAK"	"Domino"	231693
 "03UrZgTINDqvnUMbbIMhql"	"Gangnam Style (강남스타일)"	219493
 "62zFEHfAYl5kdHYOivj4BC"	"International Love (feat. Chris Brown)"	227280
-"1wQb4MHNraGUxsjoOqj9KX"	"Home This Christmas"	204400
+"1EAgPzRbK9YmdOESSMUm6P"	"Home"	210173
 "3bfqkspKABT4pPicm6wC9F"	"Ass Back Home (feat. Neon Hitch)"	222213
 "0p1BcEcYVO3uk4KDf3gzkY"	"Wanted"	228840
 "3b7CDTKB0SRTmQ6ytYi5vZ"	"Drunk On You"	213546
-"48QmG1dfvMuYLxMPt7KSRA"	"No Lie"	221176
+"6j9iyrrmqWlQZ5SD1hSTaq"	"No Lie"	237826
 "5InWRmnfgjVwQWoXHNBATu"	"Want U Back"	214013
 "18VfHIPaCo0s6FTi1Fnp6T"	"Don't Wake Me Up"	222306
-"4d2hD63oUGU3s7L66JD0BE"	"Dance Again"	237266
+"3ZAMtgYJFoHwJjFkhkXqKr"	"Dance (A$$) Remix"	220293
 "05ZACkzW8YbRq3eFgIfSNB"	"Springsteen"	263386
 "4urcG6Nfubqsuqy3juMjBi"	"Brokenhearted"	227146
 "6j7hih15xG2cdYwIJnQXsq"	"Not Over You"	218520
-"1lr7QGyV5RohlODzAqnuZA"	"Back In Time"	258866
+"3eQlGeyuSibgAGPEJugaDW"	"Back in Time - featured in "Men In Black 3""	207760
 "2wAJTrFhCnQyNSD3oUgTZO"	"Work Out"	235320
 "5mFMb5OHI3cN0UjITVztCj"	"Rumour Has It"	223266
-"38XLUjlR84JEwK0SOvX77a"	"Let's go to Hell"	152181
-"3NgcaTIgVh77DdwAInp996"	"Good Girl"	189533
+"4wkQmYpAaMe41Rc3sYZ7Vz"	"Let's Go (feat. Ne-Yo)"	232800
+"20DfkHC5grnKNJCzZQB6KC"	"Good Girl"	205560
 "2Gy3XMLbBxACZ4tXdFRGr7"	"Pontoon"	212320
 "0W4Kpfp1w2xkY3PrV714B7"	"Ho Hey"	163133
-"6ft4hAq6yde8jPZY2i5zLr"	"Paradise (feat. Dermot Kennedy)"	167903
+"6nek1Nin9q48AVZcWs9e9D"	"Paradise"	278719
 "0vFMQi8ZnOM2y8cuReZTZ2"	"Blown Away"	240133
-"4N9QsmvQJcGwJHAmDmBttU"	"Climax (feat. 6lack)"	189093
+"5pyVqlqThcxI7tPDjHIzPh"	"Climax"	232906
 "1ms5tNNdPouTtcD2oVF9Oz"	"Work Hard, Play Hard"	219026
 "4kte3OcW800TPvOVgrLLj8"	"Let Me Love You (Until You Learn To Love Yourself)"	251626
 "0LohatbcUXRauoeMlR1jnS"	"Pound The Alarm"	205640
-"4PDJDIdWxNN1AlnbrKkoPf"	"Come Over (Again)"	254418
-"1V6gIisPpYqgFeWbMLI0bA"	"Heart Attack"	210840
+"6BCrbWBpb8d6KWmEqZ41tr"	"Come Over"	248426
+"25CA8QVJQrh5R05UUCaODM"	"Heart Attack"	233146
 "3m8CQnnfJJp4eQMWWl3zay"	"Drank in My Cup"	232160
-"4EfN6bixdOOgoLYR5C4cWo"	"Birthday Cake"	78200
+"142G5OYLxCFvWmOnc8mKge"	"Birthday Cake (Remix Rihanna feat. Chris Brown Instrumental Tribute)"	222066
 "28GUjBGqZVcAV4PHSYzkj2"	"So Good"	213253
 "2NniAhAtkRACaMeYt48xlD"	"50 Ways to Say Goodbye"	247946
 "4YKAOXyqkKZ5gOZR0AmVMN"	"Red Solo Cup"	223386
-"0laYHRpNTS6i8FXdupHkJ4"	"Love You Like A Love Song"	188453
+"75eCTceVGZRh2mPSCZFzC6"	"Love You Like a Love Song (Selena Gomez & The Scene Remake)"	187611
 "1RMRkCn07y2xtBip9DzwmC"	"Turn Up the Music"	227973
 "7EQGXaVSyEDsCWKmUcfpLk"	"Die Young"	211920
 "42EMFjvFtOki8MA0JNZqVK"	"5 O'Clock (feat. Lily Allen & Wiz Khalifa)"	281280
@@ -289,10 +290,10 @@
 "4rHZZAmHpZrA3iH5zx8frV"	"Mirrors"	484146
 "1mKXFLRA179hdOWQBwUk9e"	"Just Give Me a Reason (feat. Nate Ruess)"	242733
 "0nJW01T7XtvILxQgC5J7Wh"	"When I Was Your Man"	213826
-"0i5el041vd6nxrGEU8QRxy"	"Cruise"	208960
+"0jHSdjxn9LfzNL0WkDu93W"	"Cruise - Remix"	208786
 "27tNWlhdAryQY04Gb2ZhUI"	"Roar"	223546
 "3w3y8KPTfNeOKPiqUTakBh"	"Locked out of Heaven"	233478
-"5HCyWlXZPP0y6Gqq8TgA20"	"STAY (with Justin Bieber)"	141805
+"789CxjEOtO76BVD1A9yJQH"	"Stay - Album Version (Edited)"	240706
 "2Foc5Q5nqNiosCNqttzHof"	"Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit"	248413
 "2dLLR6qlu5UJ5gk0dKz0h3"	"Royals"	190185
 "6AtZLIzUINvExIUy4QhdjP"	"I Knew You Were Trouble (Taylor's Version)"	219760
@@ -300,23 +301,23 @@
 "2vwlzO0Qp8kfEtzTsCXfyE"	"Wrecking Ball"	221360
 "0nrRP2bk19rLc0orkWPQk2"	"Wake Me Up"	247426
 "6vt0I1cw1YmAIKDJvHVIM5"	"Suit & Tie (feat. Jay-Z)"	326280
-"2HaQtoaZICVJnG0wMKC2SR"	"Cups (Pitch Perfect's When I'm Gone)"	179076
+"6mH3qVIeOsnQIAho5eWwhH"	"Cups (Pitch Perfect’s “When I’m Gone”) - Pop Version"	128013
 "37jTPJgwCCmIGMPB45jrPV"	"Holy Grail"	338413
 "2iJuuzV8P9Yz0VSurttIV5"	"Scream & Shout"	283400
-"60wwxj6Dd9NJlirf84wr2c"	"Clarity"	271426
+"2Nf0RbvVIKcL0SbEziqArb"	"Clarity - Zedd Union Mix"	207960
 "7ueP5u2qkdZbIPN2YA6LR0"	"Sail"	259093
 "2V65y3PX4DkRhy1djlxd9p"	"Don't You Worry Child - Radio Edit"	212862
 "6HZ9VeI5IRFCNQLXhpF4bq"	"I Love It (feat. Charli XCX)"	157152
 "6Z8R6UsFuGXGtiIxiD8ISb"	"Safe And Sound"	192789
 "55h7vJchibLdUkxdlX3fK7"	"Treasure"	178560
-"2eAZfqOm4EnOF9VvN50Tyc"	"The Way Life Goes (feat. Oh Wonder)"	221746
+"06EL94D0TA27Ik0Ke5usbj"	"The Way"	227026
 "3dgQqOiQ9fCKVhNOedd2lf"	"Started From the Bottom"	174120
 "6LoQHIo74tOzQ8EsLEkhgF"	"Come & Get It"	231986
 "6jdOi5U5LBzQrc4c1VT983"	"Hold On, We're Going Home"	227880
-"6Ed1q0X8oSKSm4IIhiQbYg"	"Daylight"	163905
+"6TwfdLbaxTKzQi3AgsZNzx"	"Daylight"	225306
 "0Hf4aIJpsN4Os2f0y0VqWl"	"Feel This Moment (feat. Christina Aguilera)"	229506
 "5ka2ajep9OAvU5Sgduhiex"	"Applause"	212333
-"4e0FYxSROat25pH16zMTZI"	"Love Me"	117013
+"7tGlzXJv6GD5e5qlu5YmDg"	"Love Me"	253440
 "7s0lDK7y3XLmI7tcsRAbW0"	"My Songs Know What You Did In The Dark (Light Em Up)"	186826
 "4X5f3vT8MRuXF68pfjNte5"	"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)"	233786
 "190jyVPHYjAqEaOGmMzdyk"	"Beauty And A Beat"	227986
@@ -324,20 +325,21 @@
 "24LS4lQShWyixJ0ZrJXfJ5"	"Sweet Nothing (feat. Florence Welch)"	212560
 "6PUIzlqotEmPuBfjbwYWOB"	"Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix"	214912
 "2uwnP6tZVVmTovzX5ELooy"	"Power Trip (feat. Miguel)"	241160
-"4esOae7i4rqTbAu9o5Pxco"	"Girl on Fire"	224920
-"7LEMGMfmJDd1iLsGD9eV5l"	"Love Somebody"	142773
+"3XyMPyuWwHcGMvXeJY6Qt0"	"Girl On Fire (feat. Nicki Minaj) - Inferno Version"	270720
+"1V6gIisPpYqgFeWbMLI0bA"	"Heart Attack"	210840
+"0HnaqUxvHP5LaWdmWwJpiS"	"Love Somebody"	229813
 "0hm8rgOY17z7kQJlqGKbu7"	"I Will Wait"	276720
 "1jF7IL57ayN4Ity3jQqGu0"	"Try"	247906
 "3xdjjKMcMOFgo1eQrfbogM"	"Wagon Wheel"	298373
 "05SBRd4fXgn8FX7bf8BCAE"	"I Need Your Love (feat. Ellie Goulding)"	234506
-"3rmo8F54jFF8OgYsqTxm5d"	"Bad Habits"	230746
+"4WT1bUi8Gvt48PZV8KVpDm"	"Bad (Tribute to Wale ft. Tiara Thomas / Rihanna remix)"	280058
 "39FwE8edwuyiaa4PrGBkP7"	"Boys 'Round Here (feat. Pistol Annies & Friends)"	288760
 "5L79aNYCTKiZq7vaOElXYj"	"Gone, Gone, Gone"	209693
 "3LlAyCYU26dvFZBDUIMb7a"	"Demons"	175200
 "6sy3LkhNFjJWlaeSMNwQ62"	"Counting Stars"	257839
 "4bZd0nRuX8HyjeXAUBczvm"	"I Cry"	223800
 "2ihCaVdNZmnHZWt0fvAM7B"	"Little Talks"	266600
-"0rRjGruFonCGOt0S5zAJNQ"	"The Other Side Of Paradise"	320654
+"77XUZc4q3cdM7L9u57TFvQ"	"The Other Side - Acoustic"	226453
 "2IJI9wQqrZlCIXv3439Ign"	"Berzerk"	238746
 "7kAYyzVhWr3nSqAC7CUOWK"	"Catch My Breath"	251506
 "6GBUsjHfZuweYf5lQEz6mP"	"Crash My Party"	234760
@@ -347,21 +349,21 @@
 "5HOpkTTVcmZHnthgyxrIL8"	"The Fox (What Does the Fox Say?)"	213708
 "5T7ZFtCcOgkpjxcuaeZbw0"	"Best Song Ever"	200106
 "6wJhz2jABaX2oMChhGy39Y"	"The A Team"	258373
-"4DMKwE2E2iYDKY01C335Uw"	"Carry on Wayward Son"	323000
+"5xZjfKSfTooDP2rcAgjxlH"	"Carry On"	278373
 "4wFUdSCer8bdQsrp1M90sa"	"Highway Don't Care"	276880
 "5HGibWoxnkYSkl6mHmAlOE"	"That's My Kind Of Night"	190186
 "6REbwUNlppTfcnV4d4ZoZi"	"Swimming Pools (Drank)"	247800
 "5yIiXdLRE85OBiQmCaUenq"	"Sure Be Cool If You Did"	215720
-"5zFglKYiknIxks8geR8rcL"	"Beautiful Mistakes (feat. Megan Thee Stallion)"	227395
+"1ahAuX3F6tDdNRfMdiLsv6"	"#Beautiful"	199946
 "6s8nHXTJVqFjXE4yVZPDHR"	"Troublemaker (feat. Flo Rida)"	185586
 "0rFZaQ4crlGAzuCjWCQ2xu"	"Body Party"	234040
 "7wMq5n8mYSKlQIGECKUgTX"	"Hall of Fame (feat. will.i.am)"	202533
 "0HFrCOmhCYXlv4NdEwRAuj"	"U.O.E.N.O. (feat. Rick Ross, Future)"	260276
-"46haIwbQpVUkpAQj9V84Gp"	"Next to Me"	314389
+"3YG5boZCqRAnk1jXKhSu2M"	"Next To Me"	196866
 "2mXsZsJBThTaJXbNcg5QD4"	"Mama's Broken Heart"	177773
 "6GsAD8PgHxmEuIPTG8GP3M"	"It Goes Like This"	186080
 "0uFvvXbmGIXlf5ZgtHyYpf"	"Bugatti"	269266
-"5pfJsMwoRYKampPay8amX0"	"Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)"	292593
+"4kY7rYtE4OQkJNq22OIYRI"	"Downtown"	195866
 "6s9ICeczYOfbHHIaSMq9jd"	"Get Your Shine On"	222013
 "01TuObJVd7owWchVRuQbQw"	"#thatPOWER"	279506
 "6Uy6K3KdmUdAfelUp0SeXn"	"Brave"	220573
@@ -369,10 +371,10 @@
 "6enPOmd3vSFpI4jjms8kXN"	"Runnin' Outta Moonlight"	193773
 "6J5sxraPPZ4b0CVOGAgpXj"	"I'm Different"	207040
 "1yjY7rpaAQvKwpdUliHx0d"	"Still into You"	216013
-"27RYrbL6S02LNVhDWVl38b"	"Happy Xmas (War Is Over) - Remastered 2010"	214333
+"60nZcImufyMA1MKQY3dcCH"	"Happy - From "Despicable Me 2""	232720
 "5jrdCoLpJSvHHorevXBATy"	"Dark Horse"	215672
 "3U4isOIWM3VvDubwSI3y7a"	"All of Me"	269560
-"3ZozFqJJlDBNIm4xqxn2ZD"	"Fancy Like"	161853
+"3oiMJQAWVaxSubJ7b2VUtX"	"Fancy"	199938
 "5l3CML2OnzfNs5RfVgbcLt"	"Talk Dirty (feat. 2 Chainz)"	177685
 "6RtPijgfPKROxEzTHNRiDp"	"Rude"	224840
 "5jE48hhRu8E6zBDPRSkEq7"	"All About That Bass"	187920
@@ -384,67 +386,70 @@
 "1fidCEsYlaVE3pHwKCvpFZ"	"Am I Wrong"	245866
 "67awxiNHNyjMXhVgsHuIrs"	"Turn Down for What"	213733
 "3aUp8U4MNWctRXlY5MPysv"	"The Monster"	250188
+"6Vc5wAMmXdKIAM7WUoEb7N"	"Say Something"	229400
 "3G6hD9B2ZHOsgf4WfNu7X1"	"Team"	193058
-"13HVjjWUZFaWilh2QUJKsP"	"Let It Go"	260533
+"0qcr5FMsEO85NAQjrlDRKo"	"Let It Go - From "Frozen"/Soundtrack Version"	223840
 "4nVBt6MZDDP6tRVdQTgxJg"	"Story of My Life"	245493
 "4VrWlk8IQxevMvERoX08iC"	"Chandelier"	216120
 "7pNC5ZIKtwUK0ReSpM3P9f"	"Black Widow"	209423
 "0puf9yIluy9W0vpMEUoAnN"	"Bang Bang"	199386
 "1DunhgeZSEgWiIYbHqXl0c"	"Latch"	255866
 "4gbVRS8gloEluzf0GzDOFc"	"Maps"	189960
-"6QTTPp4rzMqcbWWzgrGf9c"	"Loyal To A Fault (feat. Bryson Tiller, Lil Durk)"	243189
+"5BrTUo0xP1wKXLJWUaGFtk"	"Loyal (feat. Lil Wayne & Tyga)"	264946
 "5Hroj5K7vLpIG4FNCRIjbP"	"Best Day Of My Life"	194240
 "14OxJlLdcHNpgsm4DRwDOB"	"Habits (Stay High)"	209160
-"0z8hI3OPS8ADPWtoCjjLl6"	"Summer of Love (Shawn Mendes & Tainy)"	184104
+"6YUTL4dYpB9xZO5qExPf05"	"Summer"	222533
 "0Y1MWB026LYxGvhq4EcMiC"	"Boom Clap"	169866
 "6jG2YzhxptolDzLHTGLt7S"	"Drunk in Love (feat. Jay-Z)"	323480
 "794F99D5BQHS5ZGRXAs7I5"	"Anaconda"	260240
 "12KUFSHFgT0XCoiSlvdQi4"	"Break Free"	214840
 "2U2ej55JYqsDuUhAxvSIq9"	"Bailando - Spanish Version"	243293
-"4pckuF6VOu58o1pMFUdlPW"	"Burn it to the Ground"	210946
+"0xMd5bcWTbyXS7wPrBtZA6"	"Burn"	231211
 "4B4zDmbHdkXZ1wUJv1yKFy"	"Wiggle (feat. Snoop Dogg)"	193295
 "1h9j1FfcLUvGFYUumJd84S"	"Rather Be (feat. Jess Glynne)"	227833
 "0Dc7J9VPV4eOInoxUiZrsL"	"Don't Tell 'Em"	266840
-"01TyFEZu6mHbffsVfxgrFn"	"Show Me How"	215110
+"4q6dqyGM25sKFU8nYAGRe4"	"Show Me (feat. Chris Brown)"	217800
 "3nB82yGjtbQFSU0JLAwLRH"	"Not a Bad Thing"	688453
 "1j8z4TTjJ1YOdoFEDwJTQa"	"Ain't It Fun"	296520
-"3RauEVgRgj1IuWdJ9fDs70"	"The Man"	190360
+"2stPxcgjdSImK7Gizl8ZUN"	"The Man"	254880
 "2TR7A4ulH9R1PNwMyd8o8U"	"This Is How We Roll"	220906
 "6FE2iI43OZnszFLuLtvvmg"	"Classic"	175426
 "0FDzzruyVECATHXKHFs9eJ"	"A Sky Full of Stars"	267866
-"0bI7K9Becu2dtXK1Q3cZNB"	"Don't Be Shy"	140500
-"2Ce8Kyv2yNJ061LQhRpB27"	"Na Na"	233478
-"3qTHxCUwefoOR0jiwCRcQN"	"Hot Boy Bling (feat. Jack Harlow & Lil Durk)"	180892
-"1irAliF0T8sLIOPJp6n7rU"	"Single Saturday Night"	187683
-"10LK20KTYWu072MC8yvXnV"	"My Hitta"	206613
-"4PLuCa10ULsd3t9bGV7MH5"	"Cool Kids"	132026
+"1huvTbEYtgltjQRXzrNKGi"	"Don't"	219840
+"5maiP9UMnTSgoxPX8X3bdz"	"Na Na"	231906
+"0rFke7eNFHbGuGJUdRgjB2"	"Hot Boy"	194561
+"6K8qKeWo5MsFED7wCR6Kop"	"Sing"	235382
+"5G47DlluL671zo0k3OhoSm"	"My Hitta"	236093
+"13P5rwmk2EsoFRIz9UCeh9"	"Cool Kids"	237626
 "4lhqb6JvbHId48OUJGwymk"	"Hey Brother"	255093
 "6jizk5lOUnfpaZXYMdfeC6"	"Trumpets"	217306
 "2bL2gyO6kBdLkNSkxXNh6x"	"Animals"	231013
 "5HJqpDspKDKwQpLjvkcIsD"	"Burnin' It Down"	219160
 "03fT3OHB9KyMtGMt2zwqCT"	"Play It Again"	226866
 "3jVtllWS5CFFWLQng8sKsr"	"2 On (feat. ScHoolboy Q)"	227000
-"2qYsSHsYkihWx043HVJQRV"	"Dirt Road Anthem"	229400
-"3jbAzLVcHiI5hYSkcKe1Ty"	"Love Runs Out (feat. G-Eazy & Sasha Alex Sloan)"	164166
+"5CXnIPD6rTjszYYQm6fY2P"	"Dirt"	230586
+"5BJSZocnCeSNeYMj3iVqM7"	"Love Runs Out"	224226
+"0HZUp8fm9fh1Mitqx4CIOr"	"Bottoms Up"	220200
 "3DmW6y7wTEYHJZlLo1r6XJ"	"Shower"	206166
 "1oew3nFNY3vMacJAsvry0S"	"Me And My Broken Heart"	193733
-"0osvOdeD3YXZiWkT8MKolJ"	"Lifestyle (feat. Adam Levine)"	153865
+"6JEntXLt4z98CcDtIH9sU7"	"Animals - Extended"	303826
+"7DTlsMOQjGysXHpwwpHuPl"	"Lifestyle"	269693
 "1dgWTMoHwTUnQhOQ8SR5fV"	"American Kids"	182960
 "2QjOHCTQ1Jl3zawyYOpxh6"	"Sweater Weather"	240400
 "3wx2kQWPn9p5UppQbNhPAk"	"Leave The Night On"	192160
 "3fBbfrWZUuWWrMQXFISr7N"	"New Flame (feat. Usher & Rick Ross)"	244226
 "48td6xvpokdYwvbl3JIiXP"	"Love Never Felt So Good"	246026
 "1soxUgYIZb1qx1c7o1Lc7z"	"Drunk On A Plane"	254466
-"4NpDZPwSXmL0cCTaJuVrCw"	"Birthday Sex"	226506
-"1RGIjMFMgJxkZHMDXVYzOJ"	"Bartender (feat. Akon)"	238800
-"5IR866FNIYfzkuZI0UFaE2"	"La La Land"	157146
-"5XKXMWPACPq51OiqzxenZo"	"Do What U Want"	216573
+"2xLOMHjkOK8nzxJ4r6yOKR"	"Birthday"	215042
+"6olKv2HP3XgBpvVxAswowe"	"Bartender"	198266
+"36pLU2ywVeBKEF0rrKtmCB"	"La La La"	222200
+"1vhC9V2d6xRPnpqkvtBHnf"	"Do What U Want (Originally Performed By Lady Gaga and R. Kelly) Instrumental Version"	210311
 "2Sh4sAOfnSHEVKFyysxzat"	"Can't Remember to Forget You (feat. Rihanna)"	206866
 "1JCCdiru7fhstOIF4N7WJC"	"Amnesia"	237247
 "38aECKrbMv2F5FsYYCewCQ"	"No Mediocre (feat. Iggy Azalea)"	201600
 "2kWowW0k4oFymhkr7LmvzO"	"Come with Me Now"	211960
-"44xO8889yUQHn70P73NILS"	"Believe Me"	188260
-"2ixkIrn45mNfdLDLHuyfRt"	"23"	228144
+"6t2eIONH4Sax3R21QWiKNp"	"Believe Me"	337640
+"20FZrLl9zSbO9b3DhaqO6M"	"23"	252520
 "5dNGORzxFb5z3v7vSAFkTU"	"Beachin'"	191040
 "1MFD6gdVDjFFMM8ItH9ZhI"	"White Walls (feat. ScHoolboy Q & Hollis)"	220319
 "1gugDOSMREb34Xo0c1PlxM"	"She Looks So Perfect"	202496
@@ -454,10 +459,10 @@
 "4jtyUzZm9WLc2AdaJ1dso7"	"0 To 100 / The Catch Up"	275226
 "5aj0xPGiEUN3aI2oOYu14S"	"I Don't Dance"	221173
 "6s9m5J92By7jii22Q2XtY2"	"Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album]"	169586
-"3jjujdWJ72nww5eGnfs2E7"	"Adore You"	207133
+"5AnCLGg35ziFOloEnXK4uu"	"Adore You"	278746
 "32OlwWuMpZ6b0aN2RZOeMS"	"Uptown Funk (feat. Bruno Mars)"	269666
 "34gCuhDGsG4bRPIf9bb02f"	"Thinking out Loud"	281560
-"7KA4W4McWYRpgf0fWsJZWB"	"See You Again (feat. Kali Uchis)"	180386
+"2JzZzZUQj3Qff7wapcbKjc"	"See You Again (feat. Charlie Puth)"	229525
 "2d8JP84HNLKhmd6IYOoupQ"	"Trap Queen"	222093
 "2iuZJX9X9P0GKaE93xcPjk"	"Sugar"	235493
 "4kbj5MwxO1bq9wjT5g9HaA"	"Shut Up and Dance"	199080
@@ -469,14 +474,14 @@
 "22VdIZQfgXJea34mQxlt81"	"Can't Feel My Face"	213520
 "0Cy7wt6IlRfBPHXXjmZbcP"	"Love Me Like You Do"	253520
 "1CS7Sd1u5tWkstBhpssyjP"	"Take Me to Church"	241693
-"273dCMFseLcVsoSWx59IoE"	"Bad Blood"	211933
+"6xsEAm6w9oMQYYg3jkEkMT"	"Bad Blood"	200106
 "1Lim1Py7xBgbAkAys3AGAG"	"Lean On"	176561
 "7oGZAicScQt96OAW4AruYy"	"Want to Want Me"	207719
 "66hayvUbTotekKU3H4ta1f"	"Where Are Ü Now (with Justin Bieber)"	250285
 "37f4ITSlgPX81ad2EvmVQr"	"Fight Song"	204013
 "5NQbUaeTEOGdD6hHcre0dZ"	"679 (feat. Remy Boyz)"	196693
 "6gj08XDlv9Duc2fPOxUmVD"	"Lips Are Movin"	182666
-"0PQoUlzP7ILdcrzpajHXc0"	"Worth It"	189253
+"41Fflg7qHiVOD6dEPvsCzO"	"Worth It (feat. Kid Ink)"	224573
 "0fgZUSa7D7aVvv3GfO0A1n"	"Post to Be (feat. Chris Brown & Jhene Aiko)"	226580
 "4MflGTO2ZTcSQ12bWcyRgI"	"Honey, I'm Good."	199263
 "7795WJLVKJoAyVoOtCWqXN"	"I'm Not The Only One"	239316
@@ -484,25 +489,25 @@
 "4lIxdJw6W3Fg4vUIYCB0S5"	"Style"	231000
 "0wwPcA6wtMf6HUMpIRdeP7"	"Hotline Bling"	267066
 "285HeuLxsngjFn4GGegGNm"	"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)"	192560
-"4JgZMoKzK4IqfbpxsixS6I"	"G.D.F.R"	204239
+"3D2L5xPKcnsYFjUAAFm4AS"	"GDFR (feat. Sage the Gemini & Lookas) - DJ Kay Rich x Up 2 No Good Remix"	174006
 "4B0JvthVoAAuygILe3n4Bs"	"What Do You Mean?"	205680
 "1HNkqx9Ahdgi1Ixy2xkKkL"	"Photograph"	258986
 "1Yk0cQdMLx5RzzFTYwmuld"	"Hello"	295502
 "5jsw9uXEGuKyJzs0boZ1bT"	"Stitches"	206880
 "2tpfxAXiI52znho4WE3XFA"	"Talking Body"	238426
-"0MMyJUC3WNnFS1lit5pTjk"	"jealousy, jealousy"	173160
+"2RqtfcLB7iOZj0zYB8Auhu"	"Jealous"	223106
 "2bJvI42r8EF3wxjOuDav4r"	"Time of Our Lives"	229360
 "7x5xYW5W42OGPAdHUyyguy"	"Locked Away (feat. Adam Levine)"	227480
-"4wCmqSrbyCgxEXROQE6vtV"	"Somebody That I Used To Know"	244973
+"7ioiB40H9xKs04QtIso2I3"	"Somebody"	189906
 "78TTtXnFQPzwqlbtbwqN0y"	"FourFiveSeconds"	188238
 "04aAxqtGp5pv12UXAg4pkq"	"Centuries"	228360
-"2gSVKxPDww9Eep5rdvtdem"	"My Way"	272973
+"1WoOzgvz6CgH4pX6a1RKGp"	"My Way (feat. Monty)"	213053
 "6DEaND0SHv3sC11xobZLiy"	"Take Your Time"	243706
-"5WYVYN9Zw4me4cnLAnAz2q"	"I Don't F**k With You"	140869
+"7taXl2C2594pF4gjumrF4W"	"I Don't F**k With You"	284413
 "0NTMtAO2BV4tnGvw9EgBVq"	"Bitch Better Have My Money"	219305
 "4T0ScSPdQKmGvruK7pavNP"	"Flex (Ooh, Ooh, Ooh)"	176744
 "0PT7nlpo11hYYyfnBgtilT"	"Nasty Freestyle"	142212
-"6TBJkXHPhu3EsMk1bshwuI"	"ONLY"	240906
+"4MRT0dDbhqFKl67WzhUbSw"	"Only"	312026
 "6kwAbEjseqBob48jCus7Sz"	"Elastic Heart"	257200
 "3uwnnTQcHM1rDqSfA4gQNz"	"Cool for the Summer"	214739
 "0fYVliAYKHuPmECRs1pbRf"	"Renegades"	195200
@@ -528,34 +533,35 @@
 "6ukMqDxnOPOgoHdak7Kyp3"	"Marvin Gaye (feat. Meghan Trainor)"	190453
 "2YlZnw2ikdb837oKMKjBkW"	"Like I'm Gonna Lose You (feat. John Legend)"	225053
 "416MsJxvxSKY96DCmbJIRs"	"The Hanging Tree"	218506
-"6MGRweoLPBAaPcXTMpMWsA"	"Coco (feat. DaBaby)"	142000
+"2JI71GHwq2LN8mtq3iCLYo"	"CoCo"	239573
 "64GRDrL1efgXclrhVCeuA0"	"Lay Me Down"	219535
-"7EVk9tRb6beJLTHrg6AkY9"	"Tuesday (feat. Danelle Sandoval)"	241874
+"2znzyzlAUc8Z1Ikq9aFOcx"	"Tuesday (feat. Drake)"	321987
 "4OjuzM3rTWp3q60mEldNSF"	"Hit the Quan - Original Version"	181080
+"5pfJsMwoRYKampPay8amX0"	"Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)"	292593
 "1TwLKNsCnhi1HxbIi4bAW0"	"House Party"	190240
 "0k6DnZMLoEUH8NGD5zh2SE"	"Ayo"	225226
 "5g15o2Sm55Hn9ShK5yEXgp"	"Kick The Dust Up"	190586
 "1bzM1cd6oqFozdr4wK6HdR"	"Blessings"	252040
 "2ixsaeFioXJmMgkkbd4uj1"	"Budapest"	200733
 "7FC9Lng8iXU081lbigu8m8"	"Heartbeat Song"	198733
-"6I3mqTwhRpn34SLVafSH7G"	"Ghost"	153190
-"6dGnYIeXmHdcikdzNNDMm2"	"Here Comes The Sun - Remastered 2009"	185733
-"6w8pFOKn42O418qwcQElZ3"	"Waves"	240013
+"4XPWKmy05Rcff6TLHNoNF8"	"Ghost"	213213
+"1wYZZtamWTQAoj8B812uKQ"	"Here"	199453
+"1HFfMOxCAT4GAwaPfCdmUs"	"Waves - Robin Schulz Radio Edit"	208133
 "7hOfyNuj2dLc0HAEYVDIYS"	"El Perdón - Forgiveness"	206666
-"0Fs9cdPDhptWEDJmiCbkEW"	"She Knows (feat. Amber Coffman & Cults)"	296520
+"7seTcUFOhn5caSDbiSfsp0"	"She Knows"	214725
 "5O2P9iiztwhomNh8xkR9lJ"	"Night Changes"	226600
 "5lFDtgWsjRJu8fPOAyJIAK"	"Back To Back"	170637
-"22mek4IiqubGD9ctzxc69s"	"How Deep Is Your Love"	212640
+"6rMwYjoFvxKiaEH4If8ZpZ"	"How Deep Is Your Love - Calvin Harris & R3hab Remix"	256560
 "50kpGaPAhYJ3sGmk6vplg0"	"Love Yourself"	233720
 "5Cb198wL07YSU40EObgnhs"	"Sorry"	200786
 "1zi7xx7UVEFkmKfv06H8x0"	"One Dance"	173986
-"2wAJTrFhCnQyNSD3oUgTZO"	"Work Out"	235320
+"72TFWvU3wUYdUuxejTTIzt"	"Work"	219320
 "3CRDbSIZ4r5MsZ0YwxuEkn"	"Stressed Out"	202333
 "275a9yzwGB6ncAW4SxY7q3"	"Panda"	247866
 "1i1fxkWeaMmKEB4T7zqbzK"	"Don't Let Me Down"	208373
 "6JV2JOEocMgcZxYSZelKcc"	"CAN'T STOP THE FEELING! (from DreamWorks Animation's "TROLLS")"	236001
 "7BKLCZ1jbUBVqRi2FVlTVw"	"Closer"	244960
-"27SdWb2rFzO6GWiYDBTD9j"	"Cheap Thrills"	211666
+"6b3b7lILUJqXcp6w9wNQSm"	"Cheap Thrills (feat. Sean Paul)"	224813
 "5kqIPrATaCc2LqxVWzQGbk"	"7 Years"	237300
 "4pAl7FkDMNBsjykPXo91B3"	"Needed Me"	191600
 "6Knv6wdA0luoMUuuoYi2i1"	"My House"	192190
@@ -564,31 +570,33 @@
 "0azC730Exh71aQlOt9Zj3y"	"This Is What You Came For (feat. Rihanna)"	222160
 "76hfruVvmfQbw0eYn1nmeC"	"Cake By The Ocean"	219146
 "40YcuQysJ0KlGQTeGUosTC"	"Me, Myself & I"	251466
-"1JTQG8J8jN8tjDTyUWnaRe"	"Ride the Lightning - 717 Tapes"	186458
+"2Z8WuEywRWYTKe1NybPQEW"	"Ride"	214506
 "6i0V12jOa3mr6uu4WYhUBr"	"Heathens"	195920
 "0PDUDa38GO8lMxLCRc4lL1"	"PILLOWTALK"	202746
 "7zsXy7vlHdItvUSH8EwQss"	"Cold Water"	185360
 "563SfWAHJs4FBZMkRN0IFN"	"Send My Love (To Your New Lover)"	223078
-"24Yi9hE78yPEbZ4kxyoXAI"	"Roses - Imanbek Remix"	176840
+"3vv9phIu6Y1vX3jcqaGz5Z"	"Roses"	226738
 "3QGsuHI8jO1Rx4JWLUh9jd"	"Treat You Better"	187973
-"3VlbOrM6nYPprVvzBZllE5"	"Too Good At Goodbyes"	201000
+"3BtuIIrQlkujKPuWF2B85z"	"Too Good"	263373
 "7EiZI6JVHllARrX9PUvAdX"	"Low Life (feat. The Weeknd)"	313546
 "7K5dzhGda2vRTaAWYI3hrb"	"Just Like Fire (From the Original Motion Picture "Alice Through The Looking Glass")"	215413
 "7yyRTcZmCiyzzJlNzGC9Ol"	"Broccoli (feat. Lil Yachty)"	225205
+"3pXF1nA74528Edde4of9CC"	"Don't"	198293
 "6RUhbFEhrvGISaQ8u2j2JN"	"Dangerous Woman"	235946
 "27GmP9AWRs744SzKcpJsTZ"	"Jumpman"	205879
 "7vRriwrloYVaoAe3a9wJHe"	"i hate u, i love u (feat. olivia o'brien)"	251033
 "1BZG99C7Co1r6QUC3zaS59"	"Same Old Love"	229080
 "3O8NlPh2LByMU9lSRSHedm"	"Controlla"	245226
 "7soJgKhQTO8hLP2JPRkL5O"	"One Call Away"	194453
-"01K4zKU104LyJ8gMb7227B"	"Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault)"	258812
-"6hmhG1b4LEyNuashVvuIAo"	"Never Forget You"	213427
+"13HVjjWUZFaWilh2QUJKsP"	"Let It Go"	260533
+"0l0CvurVUrr2w3Jj1hOVFc"	"NO"	213506
+"7FGEqHKksqlOlchLhM9AzS"	"Never Forget You (Zara Larsson & MNEK) - Remix"	256026
 "0lYBSQXN6rCTvUZvg9S0lU"	"Let Me Love You"	205946
 "27PmvZoffODNFW2p7ehZTQ"	"Don't Mind"	198236
 "0BCy325UZyR9z0t0uxwn2N"	"H.O.L.Y."	194186
 "37FXw5QGFN7uwwsLy8uAc0"	"We Don't Talk Anymore (feat. Selena Gomez)"	217706
 "63y6xWR4gXz7bnUGOk8iI6"	"Into You"	244453
-"1PS1QMdUqOal0ai3Gt7sDQ"	"Gold Digger"	207626
+"6ZSO7kPn8IMJFymyticbJO"	"Gold"	225882
 "43PuMrRfbyyuz4QpZ3oAwN"	"Exchange"	194613
 "0PJIbOdMs3bd5AT8liULMQ"	"oui"	238320
 "1LoriJC05IrHIDwj3q0KC1"	"Hands To Myself"	200680
@@ -600,36 +608,37 @@
 "3KwwE4sgCzMaKWq6QBebmX"	"Me Too"	181240
 "5kNe7PE09d6Kvw5pAsx23n"	"Die A Happy Man"	227426
 "6eT7xZZlB2mwyzJ2sUKG6w"	"White Iverson"	256533
-"7BKLCZ1jbUBVqRi2FVlTVw"	"Closer"	244960
+"3lSDIJ2abCrOdDJ6pshUap"	"Close"	234213
 "7lGKEWMXVWWTt3X71Bv44I"	"Unsteady"	193546
 "4dASQiO1Eoo3RJvt74FtXB"	"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)"	243490
-"1LxKKYsJNPeBdOwdudsJzv"	"Down In the DM"	182733
-"4CoAPaFaOz8e9o8MhpjWBp"	"Luv Em All"	148079
+"5w1vhNA2OEWUQ371QzyMmM"	"Down In the DM (feat. Nicki Minaj) - Remix"	259072
+"16Ah4QqH4mgYVXqfC4mdSd"	"LUV"	228640
+"0lnIJmgcUpEpe4AZACjayW"	"Sorry"	232560
 "3RiPr603aXAoi4GHyXx0uy"	"Hymn for the Weekend"	258266
 "2Gyc6e2cLxA5hoX1NOvYnU"	"Say It"	237786
 "1wHZx0LgzFHyeIZkUydNXq"	"Antidote"	262693
 "4h0zU3O9R5xzuTmNO7dNDU"	"Lost Boy"	275280
 "43bCmCI0nSgcT7QdMXY6LV"	"Side To Side"	226160
 "0EGuSSpuu9wmHCtvb4PdLO"	"Sit Still, Look Pretty"	202221
-"2JvzF1RMd7lE3KmFlsyZD8"	"MIDDLE CHILD"	213593
-"5lXY6PTuWXOludKy4zDQwM"	"On My Mind"	189268
-"5mPSyjLatqB00IkPqRlbTE"	"Pop Style"	212946
+"0g5EKLgdKvNlln7TNqBByK"	"Middle"	220573
+"6YAuDfyjCy0vbKIqa71o8v"	"On My Mind"	213445
+"23NWj2izXAJ4yL6Nah73wf"	"Pop Style"	209453
 "6O5TrlFWTYvznd9fMC0VvU"	"When We Were Young"	290900
 "0uyZ5ckiIUbFZd3P6RWmrj"	"Hide Away"	192376
 "2GyA33q5rti5IxkMQemRDH"	"I Know What You Did Last Summer"	223853
 "6dlpABcXrQKRU9G00i6Zba"	"Back To Sleep"	201253
-"2DQ1ITjI0YoLFzuADN1ZBW"	"No Limit"	245386
+"1CDBn2Lm7E63XKQDsdCq6O"	"No Limit (feat. Young Thug)"	228613
 "376KnY4TrgBITxjlnbnmIy"	"Cut It (feat. Young Dolph)"	222600
 "10I3CmmwT0BkOVhduDy53o"	"Really Really"	232093
 "7nD9nN3jord9wWcfW3Gkcm"	"All In My Head (Flex) (feat. Fetty Wap)"	210573
 "4Ce37cRWvM1vIGGynKcs22"	"Starving"	181880
 "69uxyAqqPIsUyTO8txoP2M"	"Adventure of a Lifetime"	263786
 "4Pn0JlCUusD2QHjADuOzuV"	"Humble And Kind"	259266
-"6VwBbL8CzPiC4QV66ay7oR"	"Wicked Games"	323746
+"6BbINUfGabVyiNFJpQXn3x"	"Wicked"	173346
 "3NJG6vMH1ZsectZkocMEm0"	"Tiimmy Turner"	239853
-"0tgVpDi06FyKpA1z0VMD4v"	"Perfect"	263400
+"3NLnwwAQbbFKcEcV8hDItk"	"Perfect"	230333
 "7qiZfU4dY1lWllzX7mPBI3"	"Shape of You"	233712
-"6habFhsOp2NvshLv26DqMb"	"Despacito"	229360
+"6rPO02ozF3bM7NnOV4h6s2"	"Despacito - Remix"	228826
 "0KKkJNfGyhkQ5aFogxQAPU"	"That's What I Like"	206693
 "7KXjTSCq5nL1LoYtL7XAwS"	"HUMBLE."	177000
 "6RUKPb4LETWmmr3iAEQktW"	"Something Just Like This"	247160
@@ -643,14 +652,15 @@
 "0VgkVdmE4gld66l8iyGjgx"	"Mask Off"	204600
 "3B54sVLJ402zGa6Xm4YGNe"	"Unforgettable"	233901
 "6b8Be6ljOzmkOmFslEb23P"	"24K Magic"	225983
+"6uBhi9gBXWjanegOb2Phh0"	"Stay"	210090
 "1OAh8uOEOvTDqkKFsKksCi"	"Wild Thoughts (feat. Rihanna & Bryson Tiller)"	204173
 "6fujklziTHa8uoM5OQSfIo"	"Black Beatles"	291893
 "152lZdxL1OR0ZMW6KquMif"	"Location"	219080
 "5cF0dROlMOK5uNZtivgu50"	"Attention"	208786
 "7JJmb5XwzOO8jgpou264Ml"	"There's Nothing Holdin' Me Back"	199440
-"7xYqQPIvaj47pcyWQwGZqm"	"Bodak Yellow - Money Moves Remix"	289624
+"3g2qgbWPl8TcgJIkstWpSV"	"Bodak Yellow (Money Moves)"	220395
 "0wXuerDYiBnERgIpbb3JBR"	"Redbone"	326933
-"0ZwdH0m32I8odedwvspYTh"	"I Don't Wanna Live Forever (Fifty Shades Darker)"	222351
+"55n9yjI6qqXh5F2mYvUc2y"	"I Don’t Wanna Live Forever (Fifty Shades Darker)"	247160
 "3eR23VReFzcdmS7TYCrhCe"	"It Ain't Me (with Selena Gomez)"	220780
 "2EEeOnHehOozLq4aS0n6SL"	"iSpy (feat. Lil Yachty)"	253106
 "7vu0JkJh0ldukEYbTVcqd0"	"Issues"	176320
@@ -660,23 +670,24 @@
 "5oO3drDxtziYU2H1X23ZIp"	"Love On The Brain"	224000
 "3dhjNA0jGA8vHBQ1VdD6vV"	"I Feel It Coming"	269186
 "0SGkqnVQo9KPytSri1H6cF"	"Bounce Back"	222360
-"4Ro98RCK90oHqqSZUnTFq5"	"Strip That Down"	204502
+"29JrmE89KgRyCxBIzq2Ocw"	"Strip That Down (feat. Quavo)"	202061
 "343YBumqHu19cGoGARUTsd"	"Fake Love"	210937
 "1nueTG77MzNkJTKQ0ZdGzT"	"Don't Wanna Know (feat. Kendrick Lamar)"	214265
 "1P17dC1amhFzptugyAO7Il"	"Look What You Made Me Do"	211853
 "6PCUP3dWmTjcTtXY02oFdT"	"Castle on the Hill"	261153
 "1PSBzsahR2AKwLJgx8ehBj"	"Bad Things (with Camila Cabello)"	239293
-"6tO5bxNnMuh1c3cziSpecA"	"Paris"	111020
+"15vzANxN8G9wWfwAJLLMCg"	"Paris"	221520
 "5knuzwU65gJK7IF5yJsuaW"	"Rockabye (feat. Sean Paul & Anne-Marie)"	251088
 "6QgjcU0zLnzq5OrUoSZ3OK"	"Feel It Still"	163253
 "0yvPEnB032fojLfVluFjUv"	"Sorry Not Sorry"	203760
 "2fQrGHiQOvpL9UgPvtYy6G"	"Bank Account"	220306
-"4mBsq7UWsThG3K8ShmAX6K"	"Mi Gente"	189440
+"1DoK3CdipMjplLk5LXUdcp"	"Mi Gente (feat. Beyoncé)"	209733
 "1zB4vmk8tFRmM9UULNzbLB"	"Thunder"	187146
 "7KOlJ92bu51cltsD9KU5I7"	"T-Shirt"	242407
 "4knL4iPxPOZjQzTUlELGSY"	"Rake It Up (feat. Nicki Minaj)"	276333
+"0AS63m1wHv9n4VVRizK6Hc"	"Mercy"	208733
 "4Q3N4Ct4zCuIHuZ65E3BD4"	"Tunnel Vision"	268186
-"7ytR5pFWmSjzHJIeQkgog4"	"ROCKSTAR (feat. Roddy Ricch)"	181733
+"0e7ipj03S05BNilyu5bRzt"	"rockstar (feat. 21 Savage)"	218146
 "10M2Ex445zw585Ducldzkw"	"In Case You Didn't Know"	224853
 "7i2DJ88J7jQ8K7zqFX2fW8"	"Now Or Never"	214801
 "5hTpBe8h35rJ67eAWHQsJx"	"Caroline"	209640
@@ -687,14 +698,14 @@
 "5mCPDVBb16L4XQwDdbRUpz"	"Passionfruit"	298940
 "6SwRhMLwNqEi6alNPVG00n"	"LOYALTY. FEAT. RIHANNA."	227360
 "0jdny0dhgjUwoIp5GkqEaA"	"Praying"	230266
-"6gBFPUFcJLzWGx4lenP6h2"	"goosebumps"	243836
-"6zSpb8dQRaw0M1dK8PBwQz"	"Cold Heart - PNAU Remix"	202735
-"0nnwn7LWHCAu09jfuH1xTA"	"Slide"	212066
+"5uEYRdEIh9Bo4fpjDd4Na9"	"Goosebumps - Remix"	162802
+"7gwLQ4tZ5UdZ7qNcDyJ8wr"	"Cold (feat. Future)"	234308
+"3OP2klABonVsZoF0uOncEi"	"Slide - Calvin Harris & Frank Ocean & Migos"	228750
 "7zVCrzzEJU7u24sbJPXA5W"	"What Ifs (feat. Lauren Alaina)"	188253
 "7qvxFz3JodM0A7xEM7k3YD"	"Chained To The Rhythm"	237733
-"0LtOwyZoSNZKJWHqjzADpW"	"Feels Like We Only Go Backwards"	192960
+"5bcTCxgc7xVfSaMV3RuVke"	"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)"	223413
 "0SuLAslEMFZAXf0SwY7syi"	"All Time Low"	217603
-"6Hfu9sc7jvv6coyy2LlzBF"	"Hurricane"	243187
+"6xHI9KjUjYT0FPtGO8Mxa1"	"Hurricane"	222533
 "3VlbOrM6nYPprVvzBZllE5"	"Too Good At Goodbyes"	201000
 "5Z3GHaZ6ec9bsiI5BenrbY"	"Young Dumb & Broke"	202546
 "1e1JKLEDKP7hEQzJfNAgPl"	"Magnolia"	181812
@@ -707,6 +718,7 @@
 "5Ohxk2dO5COHF1krpoPigN"	"Sign of the Times"	340706
 "2DRMuw0U0QbkVQxWxdJV3M"	"Water Under the Bridge"	240439
 "1UZOjK1BwmwWU14Erba9CZ"	"Malibu"	231906
+"5eCkuGPZNl4mISFNPgr3Dd"	"Down"	197773
 "5lNuqFVMca4vPupY10cH0J"	"No Promises (feat. Demi Lovato)"	222786
 "1XRgIKC5TPwo7nWGyKqgG0"	"I Get the Bag (feat. Migos)"	233087
 "2YMhrXQYKkm4kXLcXKKd5z"	"Small Town Boy"	205733
@@ -717,28 +729,32 @@
 "7floNISpH8VF4z4459Qo18"	"Look At Me!"	126345
 "5OUSPcqhYTOzpbXzoEvKim"	"The Fighter"	184040
 "6DCZcSspjsKoFjzjrWoCdn"	"God's Plan"	198973
+"0tgVpDi06FyKpA1z0VMD4v"	"Perfect"	263400
 "7iDa6hUg2VgEL1o1HjmfBn"	"Meant to Be (feat. Florida Georgia Line)"	163870
 "3swc6WTsr7rl9DqQKQA55C"	"Psycho (feat. Ty Dolla $ign)"	221440
-"6GG73Jik4jUlQCkKg9JuGO"	"The Middle"	165853
+"58q2HKrzhC3ozto2nDdN4z"	"I Like It"	253390
+"09IStsImFySgyp0pIQdqAc"	"The Middle"	184732
 "2G7V7zsVDxg1yRsu7Ew9RJ"	"In My Feelings"	217925
-"6OEHjJJvdkk1Ln0p0AZdyz"	"Girls Like You"	215229
+"6V1bu6o1Yo5ZXnsCJU8Ovk"	"Girls Like You (feat. Cardi B) - Cardi B Version"	235545
 "3CA9pLiwRIGtUBiMjbZmRw"	"Nice For What"	210746
 "285pBltuF7vW8TeWk8hdRR"	"Lucid Dreams"	239835
 "7dt6x5M1jzdTEt8oCbisTK"	"Better Now"	231266
-"2WP8G2pdddDmnh1xbfKBOI"	"Finesse"	182080
+"3Vo4wInECJQuz9BIBMOu8i"	"Finesse - Remix; feat. Cardi B"	217288
 "0At2qAoaVjIwWNAqrscXli"	"Boo'd Up"	256063
 "2ekn2ttSfGqwhhate0LSR0"	"New Rules"	209320
-"15HMh4yxdf4wyxSZSlOgGZ"	"SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)"	204763
+"3ee8Jmje8o58CHK66QrVC2"	"SAD!"	166605
 "4eWQlBRaTjPPUlzacqEeoQ"	"Never Be the Same"	226973
 "45Egmo7icyopuzJN0oMEdk"	"Love Lies (with Normani)"	201707
 "2qT1uLXPVPzGgFOx4jtEuo"	"no tears left to cry"	205920
+"7uzmGiiJyRfuViKKK3lVmR"	"Mine"	131064
 "4qKcDkK6siZ7Jp1Jb4m0aL"	"Look Alive (feat. Drake)"	181263
 "6NFyWDv5CjfwuzoCkw47Xf"	"Delicate"	232253
 "6vN77lE9LK6HP2DewaN6HZ"	"Yes Indeed"	142273
-"2jQiSYrwJehQAcuaaQrXnS"	"Friends"	230010
+"08bNPGLD8AhKpnnERrAc6G"	"FRIENDS"	202620
 "7y9iMe8SOB6z3NoHE2OfXl"	"Bad At Love"	181279
 "5IaHrVsrferBYDm0bDyABy"	"Taste (feat. Offset)"	232959
 "52okn5MNA47tk87PeZJLEL"	"Let You Down"	212120
+"2DQ1ITjI0YoLFzuADN1ZBW"	"No Limit"	245386
 "2l8nEO0vsTRCRnGqQty6qx"	"FEFE"	179404
 "42fw0rxRO2xbesF6mJfd4Y"	"Tequila"	196746
 "4wFjTWCunQFKtukqrNijEt"	"MotorSport"	303076
@@ -747,7 +763,7 @@
 "6Qn5zhYkTa37e91HC1D7lb"	"Whatever It Takes"	201240
 "7sO5G9EABYOXQKNPNiE9NR"	"Ric Flair Drip (with Metro Boomin)"	172800
 "75ZvA4QfFiZvzhj2xkaWAh"	"I Fall Apart"	223346
-"6huNf4dutXRjJyGn7f5BPS"	"Pray For Me"	211420
+"77UjLW8j5UAGAGVGhR5oUK"	"Pray For Me (with Kendrick Lamar)"	211440
 "4hQ6UGyWQIGJmHSo0J88JW"	"Back To You - From 13 Reasons Why – Season 2 Soundtrack"	207904
 "2xLMifQCjDGFmkHkpNLD9h"	"SICKO MODE"	312820
 "6n4U3TlzUGhdSFbUUhTvLP"	"Walk It Talk It"	276147
@@ -756,53 +772,55 @@
 "2QZ7WLBE8h2y1Y5Fb8RYbH"	"In My Blood"	211360
 "3GCdLUSnKSMJhs4Tj6CV3s"	"All The Stars (with SZA)"	232186
 "2UVbBKQOdFAekPTRsnkzcf"	"Stir Fry"	190288
-"2Xr1dTzJee307rmrkt8c0g"	"love nwantiti (ah ah ah)"	145800
+"6PGoSes0D9eUDeeAafB2As"	"LOVE. FEAT. ZACARI."	213400
 "0b9oOr2ZgvyQu88wzixux9"	"This Is America"	225773
 "0TlLq3lA83rQOYtrqBqSct"	"Nonstop"	238614
 "1HXy5I3HTWq8OvxCn0z7G7"	"Heaven"	179506
 "10Igtw8bSDyyFs7KIsKngZ"	"Freaky Friday (feat. Chris Brown)"	216631
 "4HbiCvH1R7mVOJ7KY7JQBD"	"GUMMO"	157643
 "1ZAyjvIk9YiD76yYy0TEG6"	"Plug Walk"	175229
-"0y60itmpH0aPKsFiGxmtnh"	"Wait a Minute!"	196520
+"6AvfZXpbb6r35DfF7gHPRq"	"Wait"	190642
 "2Yl4OmDby9iitgNWZPwxkd"	"Be Careful"	210787
-"33gwZOGJWEZ7dRWPqPxBEZ"	"Wolves (feat. Post Malone)"	199758
+"0tBbt8CrmxbjRP0pueQkyU"	"Wolves"	197993
 "0dIoGTQXDh1wVnhIiSyYEa"	"Bartier Cardi (feat. 21 Savage)"	224284
 "5OCJzvD7sykQEKHH7qAC3C"	"God is a woman"	197546
 "0ZNrc4kNeQYD9koZ3KvCsy"	"BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)"	237240
 "6wmAHw1szh5RCKSRjiXhPe"	"How Long"	200853
-"1sYSP7gKa5kdKIfhANfori"	"Lights Down Low"	223846
+"6TFO7bRauf2CEXh9qy2QcY"	"Lights Down Low"	225013
 "7ef4DlsgrMEH11cDZd32M6"	"One Kiss (with Dua Lipa)"	214846
 "2FY7b99s15jUprqC0M5NCT"	"Natural"	189466
 "6EGAfJaLUFzhS4zRBIEQ2J"	"You Make It Easy"	196800
 "5WvAo7DNuPRmk4APhdPzi8"	"No Brainer"	260000
-"4dVpf9jZjcORqGTLUaeYj9"	"Plain Jane"	173600
+"2YzmfPLqUx5CJOaw5ThsBV"	"Plain Jane REMIX (feat. Nicki Minaj)"	202636
 "5WoaF1B5XIEnWfmb5NZikf"	"Sky Walker (feat. Travis Scott)"	259333
 "0OWZFobGSIW9GrSlQ9C5pc"	"Marry Me"	205453
 "0d2iYfpKoM0QCKvcLCkBao"	"Eastside (with Halsey & Khalid)"	173799
 "09mEdoA6zrmBPgTEN5qXmN"	"Call Out My Name"	228373
 "51rXHuKN8Loc4sUlKPODgH"	"King's Dead (with Kendrick Lamar, Future & James Blake)"	229670
-"4RVwu0g32PAqgUiJoXsdF8"	"Happier Than Ever"	298899
+"2dpaYNEQHiRxtZbfNsse99"	"Happier"	214289
 "3V8UKqhEK5zBkBb6d6ub8i"	"Te Boté - Remix"	417920
 "4L9Ds4mpD3SuYoWwFUlv16"	"Simple"	185200
-"02kDW379Yfd5PzW5A6vuGt"	"Lemonade"	195428
+"739vCwA3EpBSkk3uDsI2wB"	"Lemon (feat. Drake) - Drake Remix"	226106
+"1LhMopPAallLeaeNutqbgS"	"Say Something (feat. Chris Stapleton)"	278893
 "3qN5qMTKyEEmiTZD38BNTT"	"I'm Upset"	214466
-"5ScbulRnixQ2XAdvrPMFjz"	"Get Along Better"	229303
+"6n6OQfBpCgzF9oEg8zhBN7"	"Get Along"	199625
 "0JP9xo3adEtGSdUEISiszL"	"Moonlight"	135090
-"7GX5flRQZVHRAGd6B4TmDO"	"XO Tour Llif3"	182706
+"5YUyW9opqNsMSEzzecZih1"	"X"	172854
 "5PIfH6BzcmH04RDmtzF0BN"	"Outside Today"	129105
 "6CTWathupIiDs7U4InHnDA"	"Trip"	213993
 "4QTJHbS3EmqH6HP4e6NiGB"	"Dura - Remix"	242160
 "7AFASza1mXqntmGtbxXprO"	"changes"	121886
+"2VIPU72L6tIR4w8J8ap6Kp"	"Mercy"	217120
 "4gB7HrYHbJVJ5RFOjxmoq4"	"One Number Away"	221800
 "1BuZAIO8WZpavWVbbq3Lci"	"Powerglide (feat. Juicy J) - From SR3MM"	332300
 "76cy1WJvNGJTj78UqeA5zr"	"IDGAF"	217946
 "2YpeDb67231RjR0MgVLzsG"	"Old Town Road - Remix"	157066
 "3KkXRkHbMCARz0aVfEt68P"	"Sunflower - Spider-Man: Into the Spider-Verse"	158040
-"7lQ8MOhq6IN2w8EYcFNSUk"	"Without Me"	290320
+"5p7ujcrUXASCNwRaWNHR1C"	"Without Me"	201660
 "2Fxmhks0bxGSBdJ92vM42m"	"bad guy"	194087
 "7xQAfvXzm3AkraOtGPWIZg"	"Wow."	149546
 "6ocbgoVGwYJhOv1GgI9NsF"	"7 rings"	178626
-"161DnLWsx1i3u1JT05lzqU"	"Talking to the Moon"	217866
+"6TqXcAFInzjp0bODyvrWEq"	"Talk (feat. Disclosure)"	197573
 "22vgEDb5hykfaTwLuskFGD"	"Sucker"	181026
 "1rqqCSm0Qe4I9rUvWncaom"	"High Hopes"	190946
 "3e9HZxeyfWwjeyPAMmWSSQ"	"thank u, next"	207320
@@ -812,14 +830,14 @@
 "3HVWdVOQ0ZA45FuZGSfvns"	"I Don't Care (with Justin Bieber)"	219946
 "2IRZnDFmlqMuOrYOLnZZyc"	"Going Bad (feat. Drake)"	180522
 "2VxeLyX666F8uXCJ0dZF8B"	"Shallow"	215733
-"6f5ExP43esnvdKPddwKXJH"	"Better Days (NEIKED x Mae Muller x Polo G)"	160656
+"6zeeWid2sgw4lap2jV61PZ"	"Better"	229320
 "6XHVuErjQ4XNm6nDPVCxVX"	"No Guidance (feat. Drake)"	260640
 "7DnAm9FOTWE3cUvso43HhI"	"Sweet but Psycho"	187436
 "2gwkD6igEhQbDQegRCcdoB"	"Suge"	163320
 "2JvzF1RMd7lE3KmFlsyZD8"	"MIDDLE CHILD"	213593
 "78QR3Wp35dqAhFEc2qAGjE"	"Drip Too Hard (Lil Baby & Gunna)"	145542
 "7qEHsqek33rTcFNT9PFqLf"	"Someone You Loved"	182160
-"1lOe9qE0vR9zwWQAOk6CoO"	"Ransom"	131240
+"7Bo9aw7NC9QrUXz59FC09z"	"'06"	158709
 "6LsAAHotRLMOHfCsSfYCsz"	"If I Can't Have You"	190800
 "0t3ZvGKlmYmVsDzBJAXK8C"	"Goodbyes (feat. Young Thug)"	174853
 "0FZ4Dmg8jJJAPJnvBIzD9z"	"ZEZE (feat. Travis Scott & Offset)"	228759
@@ -827,12 +845,12 @@
 "3GJ4hzg4lrGwU51Y3VARbF"	"Speechless"	213386
 "4kV4N9D1iKVxx1KLvtTpjS"	"break up with your girlfriend, i'm bored"	190440
 "0PG9fbaaHFHfre2gUVo7AN"	"Please Me"	200889
-"7hU3IHwjX150XLoTVmjD0q"	"MONEY"	168227
+"2GGMabyHXnJmjY6CXhhB2e"	"Money"	183527
 "6RRNNciQGZEXnqk8SQ9yv5"	"You Need To Calm Down"	171360
 "1000nHvUdawXuUHgBod4Wv"	"Panini"	114893
 "3Ol2xnObFdKV9pmRD2t9x8"	"Look Back at It"	179449
 "2t8yVaLvJ0RenpXUIAC52d"	"a lot"	288624
-"07MDkzWARZaLEdKxo6yArG"	"Meet Me At Our Spot"	162680
+"2Rk4JlNc2TPmZe2af99d45"	"ME! (feat. Brendon Urie of Panic! At The Disco)"	193000
 "116H0KvKr2Zl4RPuVBruDO"	"MIA (feat. Drake)"	210367
 "6uFn47ACjqYkc0jADwEdj1"	"Pop Out (feat. Lil Tjay)"	166560
 "2rxQMGVafnNaRaXlRMWPde"	"Beautiful Crazy"	193200
@@ -853,22 +871,24 @@
 "21jGcNKet2qwijlDFuPiPb"	"Circles"	215280
 "7aEtlGHoiPAfRB084NiDmx"	"Beer Never Broke My Heart"	186733
 "7DcvwMAiqKJQD1rrdfxSDx"	"The London (feat. J. Cole & Travis Scott)"	200106
-"5w9c2J52mkdntKOmRLeM2m"	"Con Calma"	193226
+"6hs7YJJAc1XRYHscj1qHMH"	"Con Calma - Remix"	181280
 "7eBqSVxrzQZtK2mmgRG6lC"	"Murder On My Mind"	268434
 "43zdsphuZLzwA9k4DJhU0I"	"when the party's over"	196077
 "3A2yGHWIzmGEIolwonU69h"	"Act Up"	158332
-"0lsRatBUs9HNIZAmoGABzk"	"Trampoline"	184060
+"1iQDltZqI7BXnHrFy4Qo1k"	"Trampoline (with ZAYN)"	184280
 "14mHfNsSHN0FbLftyjrV9g"	"Leave Me Alone"	195637
 "4OafepJy2teCjYJbvFE60J"	"breathin"	198160
 "4SSnFejRGlZikf02HLewEF"	"bury a friend"	193143
 "5nzhL67GpF9szXWg5y509A"	"Close Friends (Lil Baby & Gunna)"	203881
 "5ygDXis42ncn6kYG14lEVG"	"Baby Shark"	80927
 "5KBARWIxeMGkvUax9VtVC9"	"My Type"	126446
+"0PQoUlzP7ILdcrzpajHXc0"	"Worth It"	189253
 "0DiDStADDVh3SvAsoJAFMk"	"Only Human"	183000
 "6ERR6e7h6wCqGoz1TjiUJb"	"Knockin' Boots"	199382
-"6KgtcmCF9Ky68XC7ezxl3s"	"Rumors (feat. Cardi B)"	172832
+"56eGOeSsqdg3FLxdo83TwV"	"Rumor"	198440
 "1wJRveJZLSb1rjhnUHQiv6"	"Swervin (feat. 6ix9ine)"	189486
 "6b2RcmUt1g9N9mQ3CbjX2Y"	"How Do You Sleep?"	202204
+"5MPPttjfGap2C6j6eKcO6J"	"Baby (Lil Baby feat. DaBaby)"	142417
 "2KqJC0koTBUyDlsMt5ok1V"	"Look What God Gave Her"	168960
 "19kUPdKTp85q9RZNwaXM15"	"Good as You"	192053
 "59ywHNwwchG4nZJMLyxSzd"	"Clout (feat. Cardi B)"	205803
@@ -877,8 +897,9 @@
 "67XyC1GdSkKb9sbRRkUDXS"	"Shotta Flow (Feat. Blueface) [Remix]"	176631
 "5N1o6d8zGcSZSeMFkOUQOk"	"Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)"	199427
 "4qQwGRtGT7l6ckQtdPEFd4"	"Talk You Out Of It"	202920
-"5zFglKYiknIxks8geR8rcL"	"Beautiful Mistakes (feat. Megan Thee Stallion)"	227395
+"4VUwkH455At9kENOfzTqmF"	"Beautiful (feat. Camila Cabello)"	180000
 "5AnSllIrgGsCZzZJkVnApx"	"Eyes On You"	182493
 "08tq1XcHwVt5PHXUo87i0D"	"All To Myself"	169920
+"0Ryd8975WihbObpp5cPW1t"	"boyfriend (with Social House)"	186106
 "7DHApOHsIFo7EyfieArYGE"	"Walk Me Home"	177390
 "6Hj9jySrnFppAI0sEMCZpJ"	"Robbery"	240050

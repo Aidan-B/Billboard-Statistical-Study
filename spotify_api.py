@@ -3,7 +3,7 @@ import json
 import math
 import collections
 
-token = "BQDpP0vP6JgeJedunf-m6JBMVl6aWcc0d0EITNCqKnVCnyq7GenE5ARMazsiVaFZw7Ccu6Ci-4EzBxRt8s4CrOKX0b8n1hITO8T_PTCTGXqHu3vO1BFgAV9X5dQYhEW7njwCNdqaqLJ8Lohsw48dBh4sV0iq81M"
+token = "BQDxjQmVNaIkpG7Krs26YNJel-g52LhiwCWcc8JJTKqcvz9SdwgdyaJLIVFuCbCSBkLncV9W6llOMo9CLkkp6HAqyo_EmbJgSS4wPtFAcAquxH4It0lH1kcgFISolQlX0aacxdp4nP76u9yKvYw"
 
 headers = {
     'content-type': 'application/json',
@@ -44,10 +44,10 @@ def get_tracks(ids):
 
     return output
 
-def get_track(songTitle):
+def get_track(query):
     url = spotify + '/search'
     params = {
-        'q': songTitle,
+        'q': query,
         'type': 'track',
     }
     return json.loads(requests.get(url, params=params, headers=headers).text)
