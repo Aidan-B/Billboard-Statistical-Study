@@ -37,7 +37,7 @@ def samples_from_top_100(samples):
             songToBeSampled = list[randomNum]
             # print("Song to be sampled is: " + songToBeSampled)
 
-            # split the string after the \t character once, and select the third element (the duration in ms)
+            # split the string after the \t character twice, and select the third element (the duration in ms)
             sampledSongDuration = songToBeSampled.split("\t",2)[2]
 
             # check to see if a song has already been sampled
@@ -56,10 +56,10 @@ def samples_from_top_100(samples):
                 songDurationsInSample.append(sampledSongDuration)
                 songsInSample.append(songToBeSampled)
 
-        return songDurationsInSample
+        return [songDurationsInSample, songsInSample]
 
 def samples_from_artists(samples):
-    output = []
+    songDurationsInSample = []
     # list of songs already in sample to prevent songs being sampled twice (saved as full lines i.e. "[Song title] - [song duration]ms")
     songsInSample = []
     lines = []
@@ -68,11 +68,10 @@ def samples_from_artists(samples):
         with open("./artists/{}".format(file), encoding="mbcs") as f:
             lines.append(int(f.readline().strip()))
 
-
     totalPopulation = sum(lines)
 
     # loop until there are enough samples in the songDurationsInSample array
-    while len(output) < samples:
+    while len(songDurationsInSample) < samples:
         line = ''
         sampleIndex = random.randint(1,totalPopulation)
         fileIndex = 0
@@ -90,7 +89,8 @@ def samples_from_artists(samples):
                     songToBeSampled = line
                     # print("Song to be sampled is: " + songToBeSampled)
 
-                    regex = re.search('^(.*) - ([0-9]+)ms', line)
+                    # split the string after the \t character twice, and select the third element (the duration in ms)
+                    sampledSongDuration = songToBeSampled.split("\t",2)[2]
                     
                     # check to see if a song has already been sampled
                     hasAlreadyBeenSampled = False
@@ -103,10 +103,10 @@ def samples_from_artists(samples):
                             break
 
                     if hasAlreadyBeenSampled == False:
-                        # append to output an array containing [artist name, song name, duration in ms]
-                        output.append([files[fileIndex], regex.group(1), regex.group(2)])
+                        # add song duration to songDurationsInSample
+                        songDurationsInSample.append(sampledSongDuration)
                         # append the song to the existing songsInSample
                         songsInSample.append(songToBeSampled)
                     break
         
-    return output
+    return [songDurationsInSample, songsInSample]
