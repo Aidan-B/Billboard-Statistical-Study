@@ -5,6 +5,10 @@ import writeToCSV
 import sampleSelector
 import duplicateHunter
 
+# The mean of the sample of top 100 songs is 223274.53666666665 ms
+
+# The mean of the sample of top 100 songs is 218892.91 ms
+
 def calculate_mean(samples, size):
     return (sum(samples) / size)
 
@@ -49,13 +53,13 @@ def collect_all_songs_for_artists(artistList, startIndex):
     print("Finished writing files")
 
 def get_sample_and_export_sample_for_artists(sample_size):
-    print("Reading and sampling top 100 songs durations list")
+    print("Reading and sampling artists songs durations list")
     sample = sampleSelector.samples_from_artists(sample_size)
     songDurationsInSample = sample[0]
     songsInSample = sample[1]
 
     sampleMean = calculate_mean([ int(duration) for duration in songDurationsInSample], 300)
-    print("The mean of the sample of top 100 songs is {} ms".format(sampleMean))
+    print("The mean of the sample of artists songs is {} ms".format(sampleMean))
 
     print("Writing artists songs sample list")
     writeToCSV.writeArtistsSongsSample(songsInSample)
