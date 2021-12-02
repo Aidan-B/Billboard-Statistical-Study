@@ -128,7 +128,7 @@ def removeTop100SongsfromTop100Artists():
                     duplicate = True
                     duplicatedSongs.append(top100song)
                     foundDuplicates += 1
-                    print(artistSong + " is a duplicate")
+                    # print(artistSong + " is a duplicate")
                     
                     # BREAK HERE?
 
@@ -154,6 +154,7 @@ def removeTop100SongsfromTop100Artists():
 
     #write each full song line to the artist file
     with open("AllArtists-NoDuplicates.txt", "w", encoding='utf-8') as f:
+        f.write(str(len(filteredTop100FromArtistSongs)))
         for song in filteredTop100FromArtistSongs:
             f.write(song + "\n")
     f.close()

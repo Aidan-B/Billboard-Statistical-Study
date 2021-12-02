@@ -65,7 +65,7 @@ def samples_from_artists(samples):
     lines = []
     files = os.listdir("./artists")
     for file in files:
-        with open("./artists/{}".format(file), encoding="mbcs") as f:
+        with open("./artists/{}".format(file), encoding="utf-8") as f:
             lines.append(int(f.readline().strip()))
 
     totalPopulation = sum(lines)
@@ -80,7 +80,7 @@ def samples_from_artists(samples):
                 sampleIndex -= count
                 fileIndex += 1
             else:
-                with open("./artists/{}".format(files[fileIndex]), encoding="mbcs") as f:
+                with open("./artists/{}".format(files[fileIndex]), encoding="utf-8") as f:
                     f.readline().strip()
                     for index in range(0, sampleIndex):
                         line = f.readline().strip()
